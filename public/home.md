@@ -1,16 +1,16 @@
 # MyScale Vector Database Benchmark
 
-Welcome to the [MyScale](https://myscale.com) Vector Database Benchmark website. Our aim is to offer a thorough, unbiased, and reproducible comparison of various vector database services. As a managed vector database provider, we value transparency and trust for our users, which is why we've created these benchmarks to be impartial and replicable.
+Welcome to the [MyScale](https://myscale.com) Vector Database Benchmark website. Our objective is to provide a comprehensive, objective, and reproducible comparison of various vector database services. As a managed vector database provider, we place a premium on our users' transparency and trust, which is why we've designed these benchmarks to be objective and replicable.
 
-In this benchmark, we will assess several performance aspects, such as:
+In this benchmark, we will evaluate several performance characteristics, including:
 
 - Vector search throughput and latency at different precisions,
 - Upload and index building speed,
 - Cost efficiency.
 
-To show our dedication to transparency and reproducibility, we are providing the complete source code for the benchmark tests. This enables anyone to independently confirm our findings and even conduct the tests using their own hardware. The benchmark framework can be found on our [GitHub repository](https://github.com/myscale/vector-db-benchmark), and the source code for this website is available on [this repository](https://github.com/myscale/benchmark). We encourage users to review the code, perform the tests themselves, and share their results with the community.
+To demonstrate our commitment to transparency and reproducibility, we are providing the complete source code for the benchmark tests. This makes it possible for anyone to independently confirm our findings and even conduct the tests using their own hardware. The benchmark framework can be found on our [GitHub repository](https://github.com/myscale/vector-db-benchmark), and the source code for this website is also available on [this repository](https://github.com/myscale/benchmark). We encourage users to review the code, run the tests themselves, and share their findings with the community.
 
-As the importance of vector databases grows in the field of AI applications, we are pleased to present our findings to you. We believe that by exploring this benchmark, you will obtain the essential information needed to make an informed choice about your vector database requirements.
+As vector databases become increasingly important for  AI applications, we are excited to share our findings with you. We expect that you will be able to meet your vector database needs with the knowledge you gain from exploring this benchmark.
 
 ## Datasets
 
@@ -22,7 +22,7 @@ Datasets that we used:
 
 ## Setup
 
-The table below displays the cloud services we have evaluated, along with their specifications and monthly hosting costs.
+The table below compares the cloud services we have evaluated, along with their specifications and monthly hosting fees.
 
 | Service | Pod Type | Monthly Cost ($) | Remark |
 | ------------- | ------------- | -------- | --- |
@@ -34,7 +34,7 @@ The table below displays the cloud services we have evaluated, along with their 
 | Zilliz | Capacity-optimized 1 CU | 186 | - |
 | Zilliz | Performance-optimized 4 CU | 746 | - |
 
-We operate the client (`c4.xlarge`) in the same region as the cloud service to minimize networking influence. The designated regions for each cloud service are as follows:
+We operate the client (`c4.xlarge`) in the same region as the cloud service to minimize networking interference. The designated regions for each cloud service are as follows:
 
 | Service  | Server Region | Client Region |
 |----------|---------------|---------------|
