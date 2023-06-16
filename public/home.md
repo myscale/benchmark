@@ -31,8 +31,9 @@ The table below compares the cloud services we have evaluated, along with their 
 | Pinecone | 5 x p2.x1 | 600 | Performance optimized with horizontal scaling |
 | Qdrant | 4C 32G | 273 | HNSW |
 | Weaviate | SLA Tier: Standard | 690 | For the laion-768-5m-ip dataset with monthly queries based on a consistent 5 queries per second. |
-| Zilliz | Capacity-optimized 1 CU | 186 | - |
-| Zilliz | Performance-optimized 4 CU | 746 | - |
+| Zilliz | Capacity-optimized 1 CU | 114 | The cost dropped from $186 to $114 on June 14th, 2023 |
+| Zilliz | Performance-optimized 4 CU | 458 | The cost dropped from $746 to $458 on June 14th, 2023 |
+| Zilliz | Cost-optimized 1 CU | 77 | Unfortunately, we are unable to test this pod until June 16th, 2023, as we encounter an "Insufficient Memory" error from the server when loading the laion-768-5m-ip dataset. |
 
 We operate the client (`c4.xlarge`) in the same region as the cloud service to minimize networking interference. The designated regions for each cloud service are as follows:
 
