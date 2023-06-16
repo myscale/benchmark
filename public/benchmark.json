@@ -1585,8 +1585,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.025781879337619218,
-    "monthly_cost": 746,
+    "cost": 0.01583995811904962,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -1760,8 +1760,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.04086695498226841,
-    "monthly_cost": 746,
+    "cost": 0.02510797785123737,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -1788,8 +1788,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.039350970164687936,
-    "monthly_cost": 746,
+    "cost": 0.02417658197799118,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -1845,8 +1845,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.02047555896135055,
-    "monthly_cost": 746,
+    "cost": 0.012579843081442086,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -1873,8 +1873,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.06973642321967988,
-    "monthly_cost": 746,
+    "cost": 0.04284489926846632,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -1931,8 +1931,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.06776000207708159,
-    "monthly_cost": 746,
+    "cost": 0.041630618970494374,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -2076,8 +2076,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.02698797935838104,
-    "monthly_cost": 746,
+    "cost": 0.016580965924030536,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -2221,8 +2221,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.02143278245973695,
-    "monthly_cost": 746,
+    "cost": 0.013167945287897099,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -2570,8 +2570,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.01724533836880233,
-    "monthly_cost": 186,
+    "cost": 0.010622572133944531,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -2656,8 +2656,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.016708281129975803,
-    "monthly_cost": 186,
+    "cost": 0.010291762199254451,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -2862,8 +2862,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.016158432313911616,
-    "monthly_cost": 186,
+    "cost": 0.009953073065617494,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -3125,8 +3125,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.03269794382380573,
-    "monthly_cost": 746,
+    "cost": 0.020089073180649977,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -3299,8 +3299,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.046175227122070936,
-    "monthly_cost": 746,
+    "cost": 0.028369292019917922,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -3327,8 +3327,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.02653063942292249,
-    "monthly_cost": 746,
+    "cost": 0.016299983869581855,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -3384,8 +3384,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.021933283140594142,
-    "monthly_cost": 186,
+    "cost": 0.01351019488934339,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -3412,8 +3412,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.015459554689712239,
-    "monthly_cost": 186,
+    "cost": 0.009522586993550167,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -3440,8 +3440,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.07340242971339714,
-    "monthly_cost": 746,
+    "cost": 0.04509723272190524,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -3615,8 +3615,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.0811038497186586,
-    "monthly_cost": 746,
+    "cost": 0.049828857160258436,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -3759,8 +3759,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.04760490530108107,
-    "monthly_cost": 746,
+    "cost": 0.02924766252901406,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -3787,8 +3787,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.03916171995363036,
-    "monthly_cost": 746,
+    "cost": 0.02406030979403137,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -3959,8 +3959,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.07760775078991758,
-    "monthly_cost": 746,
+    "cost": 0.047680912090540116,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4016,8 +4016,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.026745144127272066,
-    "monthly_cost": 186,
+    "cost": 0.016474146035814843,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4044,8 +4044,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.02109151469772449,
-    "monthly_cost": 186,
+    "cost": 0.012991692682356424,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4072,8 +4072,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.021677732358591162,
-    "monthly_cost": 186,
+    "cost": 0.013352783851203169,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4183,8 +4183,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.051845552614530444,
-    "monthly_cost": 746,
+    "cost": 0.031853045750425926,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4211,8 +4211,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.02138307860883884,
-    "monthly_cost": 186,
+    "cost": 0.013171286646315408,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4239,8 +4239,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.02098084000627161,
-    "monthly_cost": 186,
+    "cost": 0.012923520642572786,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4296,8 +4296,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.033678827106640184,
-    "monthly_cost": 746,
+    "cost": 0.02069171156539731,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4353,8 +4353,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.026769550598461648,
-    "monthly_cost": 186,
+    "cost": 0.0164891796347621,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4410,8 +4410,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.03208859538857773,
-    "monthly_cost": 746,
+    "cost": 0.01971469963062578,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4468,8 +4468,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.028216709595932657,
-    "monthly_cost": 746,
+    "cost": 0.017335877358048007,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4552,8 +4552,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.025971462574456823,
-    "monthly_cost": 186,
+    "cost": 0.015997583156750095,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4610,8 +4610,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.020653646859002766,
-    "monthly_cost": 186,
+    "cost": 0.012721980218472831,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4638,8 +4638,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.020289094949963036,
-    "monthly_cost": 186,
+    "cost": 0.01249742800224336,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4666,8 +4666,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.08387832213843996,
-    "monthly_cost": 746,
+    "cost": 0.051533446897736174,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4812,8 +4812,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.05398114659099207,
-    "monthly_cost": 746,
+    "cost": 0.033165119191755216,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4869,8 +4869,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.01979680095889955,
-    "monthly_cost": 186,
+    "cost": 0.012194190784199577,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4897,8 +4897,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.02494282803346636,
-    "monthly_cost": 186,
+    "cost": 0.015363977461259358,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4925,8 +4925,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.029966327588274142,
-    "monthly_cost": 186,
+    "cost": 0.018458291138648216,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4953,8 +4953,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.040595361815273796,
-    "monthly_cost": 746,
+    "cost": 0.024941115523853134,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -4981,8 +4981,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.029383806064403616,
-    "monthly_cost": 186,
+    "cost": 0.01809947667096087,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -5009,8 +5009,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.0363999922267953,
-    "monthly_cost": 186,
+    "cost": 0.022421221018408263,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -5037,8 +5037,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684408731538,
-    "cost": 0.03178311497948708,
-    "monthly_cost": 746,
+    "cost": 0.01952701754497093,
+    "monthly_cost": 458.33,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -5065,8 +5065,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.028638093989964107,
-    "monthly_cost": 186,
+    "cost": 0.01764014208833434,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -5123,8 +5123,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.035821599075165585,
-    "monthly_cost": 186,
+    "cost": 0.022064949494847958,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -5151,8 +5151,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.027714829719502593,
-    "monthly_cost": 186,
+    "cost": 0.01707144108044845,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -5239,8 +5239,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.03486966812443337,
-    "monthly_cost": 186,
+    "cost": 0.021478590736646944,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
@@ -5327,8 +5327,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1684165623339,
-    "cost": 0.03375898504842014,
-    "monthly_cost": 186,
+    "cost": 0.020794445790309115,
+    "monthly_cost": 114.57,
     "index_create_parameter": {
       "optimizers_config": {}
     },
