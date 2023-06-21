@@ -34,7 +34,6 @@ The table below compares the cloud services we have evaluated, along with their 
 | MyScale | Standard Pod | 120 | Beta offers a free trial, and larger pods will be available soon. |
 | Pinecone | s1.x1 | 80 | Storage optimized |
 | Pinecone | 5 x p2.x1 | 600 | Performance optimized with horizontal scaling |
-| Pinecone | 1 x p2.x4 | 480 | Performance optimized with horizontal scaling |
 | Qdrant | 4C 32G | 273 | HNSW |
 | Weaviate | SLA Tier: Standard | 690 | For the laion-768-5m-ip dataset with monthly queries based on a consistent 5 queries per second. |
 | Zilliz | Capacity-optimized 1 CU | 114 | The cost dropped from $186 to $114 on June 14th, 2023 |
