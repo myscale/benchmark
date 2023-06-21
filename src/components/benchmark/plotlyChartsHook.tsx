@@ -144,7 +144,10 @@ export function refreshScatterChart(filtered_data: each_json[], plotlyLineChart:
       // console.log("line", trace_line.customdata);
       // console.log("scatter", trace_scatter.customdata);
       traces_line.push(trace_line);
+      traces_line.sort((a, b) => a.legendgroup.localeCompare(b.legendgroup));
       traces_scatter.push(trace_scatter);
+      traces_scatter.sort((a, b) => a.legendgroup.localeCompare(b.legendgroup));
+
       is_first = false;
     }
     // 更新完 group index 和 color index

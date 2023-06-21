@@ -16,9 +16,14 @@ As vector databases become increasingly important for  AI applications, we are e
 
 Datasets that we used:
 
-| Dataset name             | Description                                                                                                          | Number of vectors | Number of queries | Dimension | Distance | Filters                             | Payload columns | Download link                                                                                     |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------|-------------------|-----------|----------|-------------------------------------|-----------------|---------------------------------------------------------------------------------------------------|
+| Dataset name | Description | Number of vectors | Number of queries | Dimension | Distance | Filters | Payload columns | Download link |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------|-------------------|-------------------|-----------|------------|-------------------------------------|-----------------|---------------------------------------------------------------------------------------------------|
 | laion-768-5m-ip          | Generated from [LAION 2B images](https://huggingface.co/datasets/laion/laion2b-multi-vit-h-14-embeddings/tree/main). | 5,000,000         | 10,000            | 768       | IP       | N/A                                 | 0               | [Link](https://myscale-datasets.s3.ap-southeast-1.amazonaws.com/laion-5m-test-ip.hdf5)            |
+| laion-768-5m-probability | Generated from [LAION 2B images](https://huggingface.co/datasets/laion/laion2b-multi-vit-h-14-embeddings/tree/main). | 5,000,000         | 10,000            | 768       | IP       | ratio 0.01                                 | [`probability: Float64`]             | [train](https://myscale-datasets.s3.ap-southeast-1.amazonaws.com/laion-768-5m-ip-probability.hdf5) [test](https://myscale-datasets.s3.ap-southeast-1.amazonaws.com/laion-768-5m-ip-probability-0.01.hdf5)           |
+| laion-768-5m-probability | Generated from [LAION 2B images](https://huggingface.co/datasets/laion/laion2b-multi-vit-h-14-embeddings/tree/main). | 5,000,000         | 10,000            | 768       | IP       | ratio 0.1                                 | [`probability: Float64`]             | [train](https://myscale-datasets.s3.ap-southeast-1.amazonaws.com/laion-768-5m-ip-probability.hdf5) [test](https://myscale-datasets.s3.ap-southeast-1.amazonaws.com/laion-768-5m-ip-probability-0.1.hdf5)           |
+
+Description of the filter ratio
+- ratio 0.01 indicates that the query will be performed within the range of dataset_size * 0.01
 
 ## Setup
 
@@ -29,6 +34,7 @@ The table below compares the cloud services we have evaluated, along with their 
 | MyScale | Standard Pod | 120 | Beta offers a free trial, and larger pods will be available soon. |
 | Pinecone | s1.x1 | 80 | Storage optimized |
 | Pinecone | 5 x p2.x1 | 600 | Performance optimized with horizontal scaling |
+| Pinecone | 1 x p2.x4 | 480 | Performance optimized with horizontal scaling |
 | Qdrant | 4C 32G | 273 | HNSW |
 | Weaviate | SLA Tier: Standard | 690 | For the laion-768-5m-ip dataset with monthly queries based on a consistent 5 queries per second. |
 | Zilliz | Capacity-optimized 1 CU | 114 | The cost dropped from $186 to $114 on June 14th, 2023 |
