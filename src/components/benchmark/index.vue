@@ -298,7 +298,7 @@ onMounted(async () => {
       class="bg-bg_color w-[99/100] pt-4 mb-5 mt-5"
     >
       <!-- Indicator 性能指标 -->
-      <el-row class="max-w-7xl">
+      <el-row class="max-w-full">
         <el-col :span="7">
           <div class="grid-content ep-bg-purple">
             <div class="grid-content ep-bg-purple">
@@ -315,7 +315,7 @@ onMounted(async () => {
             </div>
           </div>
         </el-col>
-        <el-col :span="7">
+        <el-col :span="8">
           <div class="grid-content ep-bg-purple">
             <el-form-item label="Dataset Tag" class="font-bold">
               <el-select v-model="form_data.dataset_tag_selected" multiple>
@@ -329,7 +329,7 @@ onMounted(async () => {
             </el-form-item>
           </div>
         </el-col>
-        <el-col :span="10">
+        <el-col :span="9">
           <div class="grid-content ep-bg-purple">
             <div class="grid-content ep-bg-purple-light">
               <el-form-item label="Plot Values" class="font-bold">
@@ -494,5 +494,8 @@ onMounted(async () => {
 }
 .main-svg {
   // background-color: bisque;
+}
+.ep-select {
+  min-width: 230px;
 }
 </style>

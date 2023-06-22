@@ -104,7 +104,7 @@ export function refreshScatterChart(filtered_data: each_json[], plotlyLineChart:
       }
       console.log("parallel: ", sub_group_parallel, " each_data: ", each_data_line);
       // const itemKey = `${each_data_line[0].engine}-${each_data_line[0].index_type}-${each_data_line[0].hash_code.toString().slice(-5)}`
-      const itemKey = `${each_data_line[0].engine}-${each_data_line[0].index_type}`;
+      const itemKey = `${each_data_line[0].engine}-${each_data_line[0].index_type}${each_data_line[0].dataset_tag==='no-filter'?'':'-'+each_data_line[0].dataset_tag}`;
       const custome_line_data = each_data_line.map(d => [d.engine, d.version, d.remark, d.dataset, d.dataset_tag, new Date(d.time_stamp).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }), d.monthly_cost, d.index_type, JSON.stringify(d.index_create_parameter), JSON.stringify(d.index_search_params)]);
       const custome_scatter_data = each_data_scatter.map(d => [d.engine, d.version, d.remark, d.dataset, d.dataset_tag, new Date(d.time_stamp).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }), d.monthly_cost, d.index_type, JSON.stringify(d.index_create_parameter), JSON.stringify(d.index_search_params)]);
       const trace_line = {
@@ -144,7 +144,10 @@ export function refreshScatterChart(filtered_data: each_json[], plotlyLineChart:
       // console.log("line", trace_line.customdata);
       // console.log("scatter", trace_scatter.customdata);
       traces_line.push(trace_line);
+      traces_line.sort((a, b) => a.legendgroup.localeCompare(b.legendgroup));
       traces_scatter.push(trace_scatter);
+      traces_scatter.sort((a, b) => a.legendgroup.localeCompare(b.legendgroup));
+
       is_first = false;
     }
     // 更新完 group index 和 color index
