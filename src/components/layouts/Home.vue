@@ -78,10 +78,10 @@ onMounted(async () => {
 }
 .markdown-body-light,
 .markdown-body-dark {
-  max-width: 1120px;
+  max-width: 800px;
   text-align: left;
-  border-radius: 10px;
-  padding: 15px;
+  border-radius: 15px;
+  padding: 20px;
 }
 @import "~/styles/markdown/github-markdown-dark.css";
 @import "~/styles/markdown/github-markdown-light.css";
