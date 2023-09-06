@@ -39,7 +39,7 @@ Let’s peek into the specs and costs of the cloud services we’ve put to the t
 | Weaviate | SLA Tier: Standard | 690 | Pricing for the laion-768-5m-ip dataset, assuming a consistent 5 queries per second. |
 | Zilliz | Capacity-optimized 1 CU | 114 | Price reduced from $186 to $114 as of June 14, 2023. |
 | Zilliz | Performance-optimized 4 CU | 458 | Price reduced from $746 to $458 as of June 14, 2023. |
-| Zilliz | Cost-optimized 1 CU | 77 | We could not test this pod until June 16, 2023, due to an "Insufficient Memory" error during data loading. |
+| Zilliz | Cost-optimized 1 CU | 77.13 | We could not test this pod until June 16, 2023, due to an "Insufficient Memory" error during data loading. |
 
 To ensure a fair play, we operate the client (`c4.xlarge`) in the same region as the cloud service to keep networking interference to a minimum.
 
