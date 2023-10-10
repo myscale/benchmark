@@ -39,7 +39,10 @@ Let’s peek into the specs and costs of the cloud services we’ve put to the t
 | Weaviate | SLA Tier: Standard | 690 | Pricing for the laion-768-5m-ip dataset, assuming a consistent 5 queries per second. |
 | Zilliz | Capacity-optimized 1 CU | 114 | Price reduced from $186 to $114 as of June 14, 2023. |
 | Zilliz | Performance-optimized 4 CU | 458 | Price reduced from $746 to $458 as of June 14, 2023. |
-| Zilliz | Cost-optimized 1 CU | 77 | Added on Sep 6, 2023. |
+| Zilliz | Cost-optimized 1 CU | 77.13 | We could not test this pod until June 16, 2023, due to an "Insufficient Memory" error during data loading. |
+| PGVector | 1*r6a.xlarge 4C 32GB | 165.56 | Self host. |
+| PGVecto.rs | 1*r6a.xlarge 4C 32GB | 165.56 | Self host. |
+| OpenSearch | 1 node r6g.2xlarge.search | 500 | Amazon OpenSearch Service domain. |
 
 To ensure a fair play, we operate the client (`c4.xlarge`) in the same region as the cloud service to keep networking interference to a minimum.
 
@@ -50,3 +53,6 @@ To ensure a fair play, we operate the client (`c4.xlarge`) in the same region as
 | Qdrant | AWS us-east-1 | AWS us-east-1 |
 | Weaviate | GCP US East | AWS us-east-1 |
 | Zilliz | AWS us-east-2 | AWS us-east-2 |
+| PGVector | AWS us-east-2 | AWS us-east-2 |
+| PGVecto.rs | AWS us-east-2 | AWS us-east-2 |
+| OpenSearch | AWS us-east-2 | AWS us-east-2 |
