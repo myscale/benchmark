@@ -32,17 +32,17 @@ Let’s peek into the specs and costs of the cloud services we’ve put to the t
 
 | Service | Pod Type | Monthly Cost ($) | Notes |
 |---------|----------|------------------|-------|
-| MyScale | Standard Pod | 120 | Beta users are eligible for a free trial. Larger pods coming soon. |
-| Pinecone | s1.x1 | 80 | Optimized for storage. |
-| Pinecone | 5 x p2.x1 | 600 | Performance-optimized via horizontal scaling. |
-| Qdrant | 4C 32G | 273 | Utilizes HNSW algorithm. |
-| Weaviate | SLA Tier: Standard | 690 | Pricing for the laion-768-5m-ip dataset, assuming a consistent 5 queries per second. |
-| Zilliz | Capacity-optimized 1 CU | 114 | Price reduced from $186 to $114 as of June 14, 2023. |
-| Zilliz | Performance-optimized 4 CU | 458 | Price reduced from $746 to $458 as of June 14, 2023. |
-| Zilliz | Cost-optimized 1 CU | 77 | Added on Sep 6, 2023. |
-| PGVector | 1*r6a.xlarge 4C 32GB | 165.56 | Self host. |
-| PGVecto.rs | 1*r6a.xlarge 4C 32GB | 165.56 | Self host. |
-| OpenSearch | 1 node r6g.2xlarge.search | 500 | Amazon OpenSearch Service domain. |
+| [MyScale](https://myscale.com/) | Standard Pod | 120 | Beta users are eligible for a free trial. |
+| [Pinecone](https://www.pinecone.io/) | s1.x1 | 80 | Optimized for storage. |
+| [Pinecone](https://www.pinecone.io/) | 5 x p2.x1 | 600 | Performance-optimized via horizontal scaling. |
+| [Qdrant](https://qdrant.tech/) | 4C 32G | 273 | Utilizes HNSW algorithm. |
+| [Weaviate](https://weaviate.io/) | SLA Tier: Standard | 690 | Pricing for the laion-768-5m-ip dataset, assuming a consistent 5 queries per second. |
+| [Zilliz](https://zilliz.com) | Capacity-optimized 1 CU | 114 | Price reduced from $186 to $114 as of June 14, 2023. |
+| [Zilliz](https://zilliz.com) | Performance-optimized 4 CU | 458 | Price reduced from $746 to $458 as of June 14, 2023. |
+| [Zilliz](https://zilliz.com) | Cost-optimized 1 CU | 77 | Added on Sep 6, 2023. |
+| [PGVector](https://github.com/pgvector/pgvector) | 1 x r6a.xlarge 4C 32GB | 165.56 | Host PostgreSQL on AWS EC2. |
+| [PGVecto.rs](https://github.com/tensorchord/pgvecto.rs) | 1 x r6a.xlarge 4C 32GB | 165.56 | Host PostgreSQL on AWS EC2. |
+| [AWS OpenSearch Service](https://aws.amazon.com/opensearch-service/) | 1 x r6g.2xlarge.search | 500 | Amazon OpenSearch Service domain. |
 
 To ensure a fair play, we operate the client (`c4.xlarge`) in the same region as the cloud service to keep networking interference to a minimum.
 
