@@ -30,7 +30,7 @@ We have employed the following datasets for an insightful analysis:
 
 Let’s peek into the specs and costs of the cloud services we’ve put to the test.
 
-| Service | Pod Type | Monthly Cost ($) | Notes |
+| Database | Pod Type | Monthly Cost ($) | Notes |
 |---------|----------|------------------|-------|
 | [MyScale](https://myscale.com/) | Standard Pod | 120 | Beta users are eligible for a free trial. |
 | [Pinecone](https://www.pinecone.io/) | s1.x1 | 80 | Optimized for storage. |
@@ -40,9 +40,9 @@ Let’s peek into the specs and costs of the cloud services we’ve put to the t
 | [Zilliz](https://zilliz.com) | Capacity-optimized 1 CU | 114 | Price reduced from $186 to $114 as of June 14, 2023. |
 | [Zilliz](https://zilliz.com) | Performance-optimized 4 CU | 458 | Price reduced from $746 to $458 as of June 14, 2023. |
 | [Zilliz](https://zilliz.com) | Cost-optimized 1 CU | 77 | Added on Sep 6, 2023. |
-| [PGVector](https://github.com/pgvector/pgvector) | 1 x r6a.xlarge 4C 32GB | 165.56 | Host PostgreSQL on AWS EC2. |
-| [PGVecto.rs](https://github.com/tensorchord/pgvecto.rs) | 1 x r6a.xlarge 4C 32GB | 165.56 | Host PostgreSQL on AWS EC2. |
-| [AWS OpenSearch Service](https://aws.amazon.com/opensearch-service/) | 1 x r6g.2xlarge.search | 500 | Amazon OpenSearch Service domain. |
+| Postgres with [pgvector](https://github.com/pgvector/pgvector) | [r6a.xlarge](https://instances.vantage.sh/aws/ec2/r6a.xlarge?region=us-east-1&os=linux&cost_duration=monthly&reserved_term=Standard.noUpfront) (4C 32GB) | 165 or 329 | Self-hosted: \$165/month; Cloud version ([db.r6g.xlarge](https://instances.vantage.sh/aws/rds/db.r6g.xlarge?region=us-east-1&os=PostgreSQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)): \$329 |
+| Postgres [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) | [r6a.xlarge](https://instances.vantage.sh/aws/ec2/r6a.xlarge?region=us-east-1&os=linux&cost_duration=monthly&reserved_term=Standard.noUpfront) (4C 32GB) | 165 or 329 | Self-hosted: \$165/month; Cloud version ([db.r6g.xlarge](https://instances.vantage.sh/aws/rds/db.r6g.xlarge?region=us-east-1&os=PostgreSQL&cost_duration=monthly&reserved_term=Standard.partialUpfront)): \$329 |
+| [AWS OpenSearch Service](https://aws.amazon.com/opensearch-service/) | [r6g.2xlarge.search](https://instances.vantage.sh/aws/opensearch/r6g.2xlarge.search?region=us-east-1&cost_duration=monthly&reserved_term=Standard.noUpfront) (8C 64GB) | 488 | Amazon OpenSearch Service domain |
 
 To ensure a fair play, we operate the client (`c4.xlarge`) in the same region as the cloud service to keep networking interference to a minimum.
 
