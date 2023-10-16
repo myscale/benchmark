@@ -9,8 +9,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.00808050206874946,
-    "monthly_cost": 165.56,
+    "cost": 0.0160575331035188,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -38,8 +38,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.016292298960798698,
-    "monthly_cost": 165.56,
+    "cost": 0.032375974620094054,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -67,8 +67,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.004373378941499256,
-    "monthly_cost": 165.56,
+    "cost": 0.008690756654706784,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -96,8 +96,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0078816713099394,
-    "monthly_cost": 165.56,
+    "cost": 0.01566241761880927,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -125,8 +125,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.004365390906590492,
-    "monthly_cost": 165.56,
+    "cost": 0.008674882871878908,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -154,8 +154,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.015170763816009214,
-    "monthly_cost": 165.56,
+    "cost": 0.03014726561649572,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -183,8 +183,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0030324145083273865,
-    "monthly_cost": 165.56,
+    "cost": 0.006025998871947995,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -212,8 +212,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0028085392367822723,
-    "monthly_cost": 165.56,
+    "cost": 0.00558111505738927,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -241,8 +241,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0029849376117310434,
-    "monthly_cost": 165.56,
+    "cost": 0.005931653021620641,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -270,8 +270,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.002754125677714829,
-    "monthly_cost": 165.56,
+    "cost": 0.00547298470625863,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -299,8 +299,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.017849576851843404,
-    "monthly_cost": 165.56,
+    "cost": 0.03547058941928292,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -328,8 +328,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.008662483088939252,
-    "monthly_cost": 165.56,
+    "cost": 0.0172140428621709,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -357,8 +357,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0048328889884887635,
-    "monthly_cost": 165.56,
+    "cost": 0.009603892710877044,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -386,8 +386,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.008753887106023744,
-    "monthly_cost": 165.56,
+    "cost": 0.017395680465582337,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -415,8 +415,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.004836447761124068,
-    "monthly_cost": 165.56,
+    "cost": 0.009610964685973776,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -444,8 +444,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.017674572797868313,
-    "monthly_cost": 165.56,
+    "cost": 0.03512282224268347,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -473,8 +473,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.003498415356648207,
-    "monthly_cost": 165.56,
+    "cost": 0.006952033415905171,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -502,8 +502,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0033141784795524005,
-    "monthly_cost": 165.56,
+    "cost": 0.006585918819598573,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -531,8 +531,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0034724038583325277,
-    "monthly_cost": 165.56,
+    "cost": 0.006900343497169616,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -560,8 +560,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.003282310797987771,
-    "monthly_cost": 165.56,
+    "cost": 0.006522591522940183,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -589,8 +589,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.024189171832631053,
-    "monthly_cost": 165.56,
+    "cost": 0.04806860070630355,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -618,8 +618,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.007048091544526519,
-    "monthly_cost": 165.56,
+    "cost": 0.014005932098026242,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -647,8 +647,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.012151566660129476,
-    "monthly_cost": 165.56,
+    "cost": 0.024147532200909625,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -676,8 +676,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.006893207151752529,
-    "monthly_cost": 165.56,
+    "cost": 0.01369814661105691,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -705,8 +705,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.005638987275052569,
-    "monthly_cost": 165.56,
+    "cost": 0.011205767174995742,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -734,8 +734,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.005617238920657855,
-    "monthly_cost": 165.56,
+    "cost": 0.011162548954436061,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -763,8 +763,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.011922855549741951,
-    "monthly_cost": 165.56,
+    "cost": 0.023693038631705132,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -792,8 +792,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.025377237349462376,
-    "monthly_cost": 165.56,
+    "cost": 0.050429518530883795,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -821,8 +821,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.00586557711212273,
-    "monthly_cost": 165.56,
+    "cost": 0.011656045360524149,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -850,8 +850,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.005790087284515638,
-    "monthly_cost": 165.56,
+    "cost": 0.011506032354467533,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -879,8 +879,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.03571640840002453,
-    "monthly_cost": 165.56,
+    "cost": 0.07097546728441695,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -908,8 +908,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.03511234940083012,
-    "monthly_cost": 165.56,
+    "cost": 0.06977508427683685,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -937,8 +937,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.01832642510734708,
-    "monthly_cost": 165.56,
+    "cost": 0.036418179876281646,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -966,8 +966,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.01126288611036479,
-    "monthly_cost": 165.56,
+    "cost": 0.022381550678364438,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -995,8 +995,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.011057560881844114,
-    "monthly_cost": 165.56,
+    "cost": 0.021973529416083073,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1024,8 +1024,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.018236317326554983,
-    "monthly_cost": 165.56,
+    "cost": 0.03623911814711638,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1053,8 +1053,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.01028623476267735,
-    "monthly_cost": 165.56,
+    "cost": 0.02044075402827282,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1082,8 +1082,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.010174353195617337,
-    "monthly_cost": 165.56,
+    "cost": 0.020218423540457258,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1111,8 +1111,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.010915819045941742,
-    "monthly_cost": 165.56,
+    "cost": 0.021691860752082827,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1140,8 +1140,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.01082723351711725,
-    "monthly_cost": 165.56,
+    "cost": 0.021515824034377722,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1169,8 +1169,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.00812214996899892,
-    "monthly_cost": 165.56,
+    "cost": 0.016140295601598482,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1198,8 +1198,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.008098110336638525,
-    "monthly_cost": 165.56,
+    "cost": 0.016092524164979912,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1227,8 +1227,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.03377773616199824,
-    "monthly_cost": 165.56,
+    "cost": 0.0671229475555534,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1256,8 +1256,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.03605164726459893,
-    "monthly_cost": 165.56,
+    "cost": 0.07164165227140039,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1285,8 +1285,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.00438647904744093,
-    "monthly_cost": 165.56,
+    "cost": 0.00871678911940122,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1314,8 +1314,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.004330915798545437,
-    "monthly_cost": 165.56,
+    "cost": 0.008606374110421892,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1343,8 +1343,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.002807851283969162,
-    "monthly_cost": 165.56,
+    "cost": 0.005579747961016274,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1372,8 +1372,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.008160432815906307,
-    "monthly_cost": 165.56,
+    "cost": 0.016216371082587427,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1401,8 +1401,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0030300252420189036,
-    "monthly_cost": 165.56,
+    "cost": 0.006021250933946722,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1430,8 +1430,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.008146707350522945,
-    "monthly_cost": 165.56,
+    "cost": 0.016189095906753135,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1459,8 +1459,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.004468731596457292,
-    "monthly_cost": 165.56,
+    "cost": 0.00888024097145717,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1488,8 +1488,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.002757870120503949,
-    "monthly_cost": 165.56,
+    "cost": 0.005480425644151965,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1517,8 +1517,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.01776346267709306,
-    "monthly_cost": 165.56,
+    "cost": 0.035299463763974484,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1546,8 +1546,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.017895262400417382,
-    "monthly_cost": 165.56,
+    "cost": 0.03556137551182241,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1575,8 +1575,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.003016638912636875,
-    "monthly_cost": 165.56,
+    "cost": 0.005994649687469991,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1604,8 +1604,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.004395103095984951,
-    "monthly_cost": 165.56,
+    "cost": 0.008733926785328876,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1633,8 +1633,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0030607934173744406,
-    "monthly_cost": 165.56,
+    "cost": 0.0060823932973918275,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1662,8 +1662,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.002834905753994286,
-    "monthly_cost": 165.56,
+    "cost": 0.005633510467891519,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1691,8 +1691,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.003036933002268958,
-    "monthly_cost": 165.56,
+    "cost": 0.006034978000401589,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1720,8 +1720,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.002808831056458853,
-    "monthly_cost": 165.56,
+    "cost": 0.00558169495998407,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1749,8 +1749,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.01802021868791723,
-    "monthly_cost": 165.56,
+    "cost": 0.03580968801839073,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1778,8 +1778,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.008721963546196528,
-    "monthly_cost": 165.56,
+    "cost": 0.017332242127921345,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1807,8 +1807,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.008771236634283175,
-    "monthly_cost": 165.56,
+    "cost": 0.017430157360951708,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1836,8 +1836,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.019557506521877842,
-    "monthly_cost": 165.56,
+    "cost": 0.03886457867659948,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1865,8 +1865,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.004903685165065234,
-    "monthly_cost": 165.56,
+    "cost": 0.009744578517192931,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1894,8 +1894,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.004769664751096978,
-    "monthly_cost": 165.56,
+    "cost": 0.009478253824057174,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -1923,8 +1923,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.019593344425907627,
-    "monthly_cost": 165.56,
+    "cost": 0.0389357955793888,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1952,8 +1952,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.00350464706112352,
-    "monthly_cost": 165.56,
+    "cost": 0.006964417027721902,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -1981,8 +1981,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0089453873721497,
-    "monthly_cost": 165.56,
+    "cost": 0.017776228832068443,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2010,8 +2010,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0033174783317585265,
-    "monthly_cost": 165.56,
+    "cost": 0.006592476269319613,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2039,8 +2039,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.00495877994496642,
-    "monthly_cost": 165.56,
+    "cost": 0.009854062586941001,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2068,8 +2068,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.008916921011407813,
-    "monthly_cost": 165.56,
+    "cost": 0.017719660623056115,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2097,8 +2097,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.003572684199121513,
-    "monthly_cost": 165.56,
+    "cost": 0.007099620086439828,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2126,8 +2126,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0048916787476504095,
-    "monthly_cost": 165.56,
+    "cost": 0.009720719424842865,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2155,8 +2155,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0034652424303595417,
-    "monthly_cost": 165.56,
+    "cost": 0.006886112343490513,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2184,8 +2184,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0033894670409367654,
-    "monthly_cost": 165.56,
+    "cost": 0.006735531870428822,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2213,8 +2213,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0194728680959994,
-    "monthly_cost": 165.56,
+    "cost": 0.03869638562203312,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2242,8 +2242,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.00327932452200756,
-    "monthly_cost": 165.56,
+    "cost": 0.0065166572103194445,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2271,8 +2271,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.003529819482318807,
-    "monthly_cost": 165.56,
+    "cost": 0.007014439536620485,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2300,8 +2300,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0033417835528835337,
-    "monthly_cost": 165.56,
+    "cost": 0.006640775482596536,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2329,8 +2329,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.024500986543252452,
-    "monthly_cost": 165.56,
+    "cost": 0.048688237332266585,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2358,8 +2358,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.024121155741638433,
-    "monthly_cost": 165.56,
+    "cost": 0.04793343947208894,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2387,8 +2387,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.012312676322883269,
-    "monthly_cost": 165.56,
+    "cost": 0.024467688513098548,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2416,8 +2416,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.01201715886927476,
-    "monthly_cost": 165.56,
+    "cost": 0.023880437714371802,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2445,8 +2445,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.007060689188701826,
-    "monthly_cost": 165.56,
+    "cost": 0.01403096607322361,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2474,8 +2474,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.006972581573038441,
-    "monthly_cost": 165.56,
+    "cost": 0.01385587906215056,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2503,8 +2503,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.0056785070780395325,
-    "monthly_cost": 165.56,
+    "cost": 0.011284300728889866,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2532,8 +2532,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.005626692904513467,
-    "monthly_cost": 165.56,
+    "cost": 0.011181335863644181,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2561,8 +2561,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.00587517830158285,
-    "monthly_cost": 165.56,
+    "cost": 0.011675124795969785,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2590,8 +2590,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.005794692830630401,
-    "monthly_cost": 165.56,
+    "cost": 0.011515184472562225,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2619,8 +2619,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.03127487601606054,
-    "monthly_cost": 165.56,
+    "cost": 0.062149276451340406,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2648,8 +2648,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.013491299282401737,
-    "monthly_cost": 165.56,
+    "cost": 0.026809842135239015,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2677,8 +2677,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.01366114576075794,
-    "monthly_cost": 165.56,
+    "cost": 0.02714736020348733,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2706,8 +2706,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.03192206664352803,
-    "monthly_cost": 165.56,
+    "cost": 0.06343537041387244,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2735,8 +2735,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0075511081275419735,
-    "monthly_cost": 165.56,
+    "cost": 0.01500552412395089,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2764,8 +2764,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.007561918619400205,
-    "monthly_cost": 165.56,
+    "cost": 0.015027006679044863,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2793,8 +2793,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.005873768050951301,
-    "monthly_cost": 165.56,
+    "cost": 0.0116723223530018,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2822,8 +2822,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0060198919092738805,
-    "monthly_cost": 165.56,
+    "cost": 0.011962698949934203,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -2851,8 +2851,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.005836616723653104,
-    "monthly_cost": 165.56,
+    "cost": 0.01159849542209393,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -2880,8 +2880,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.005948809214677811,
-    "monthly_cost": 165.56,
+    "cost": 0.011821443776449624,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3245,8 +3245,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.16070958993484963,
-    "monthly_cost": 500,
+    "cost": 0.15685255977641324,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3274,8 +3274,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.17766508383996554,
-    "monthly_cost": 500,
+    "cost": 0.17340112182780637,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3303,8 +3303,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.1776626229249996,
-    "monthly_cost": 500,
+    "cost": 0.1733987199747996,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3332,8 +3332,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.3583220751248882,
-    "monthly_cost": 500,
+    "cost": 0.34972234532189084,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3361,8 +3361,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.24660545104474296,
-    "monthly_cost": 500,
+    "cost": 0.24068692021966911,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3390,8 +3390,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.09184371190000093,
-    "monthly_cost": 500,
+    "cost": 0.0896394628144009,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3419,8 +3419,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.10256847697004559,
-    "monthly_cost": 500,
+    "cost": 0.1001068335227645,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3448,8 +3448,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.10224672837406615,
-    "monthly_cost": 500,
+    "cost": 0.09979280689308857,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3477,8 +3477,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.14343396357493474,
-    "monthly_cost": 500,
+    "cost": 0.1399915484491363,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3506,8 +3506,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.20698523686500267,
-    "monthly_cost": 500,
+    "cost": 0.20201759118024262,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3535,8 +3535,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.11359015371563146,
-    "monthly_cost": 500,
+    "cost": 0.1108639900264563,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3564,8 +3564,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.10385244718250759,
-    "monthly_cost": 500,
+    "cost": 0.10135998845012742,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3593,8 +3593,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.18062438023185678,
-    "monthly_cost": 500,
+    "cost": 0.1762893951062922,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3622,8 +3622,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.11117057712717723,
-    "monthly_cost": 500,
+    "cost": 0.10850248327612498,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3651,8 +3651,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.06457361116594257,
-    "monthly_cost": 500,
+    "cost": 0.06302384449795995,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3680,8 +3680,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.11166774289373278,
-    "monthly_cost": 500,
+    "cost": 0.1089877170642832,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3709,8 +3709,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.07484461579155323,
-    "monthly_cost": 500,
+    "cost": 0.07304834501255596,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3738,8 +3738,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.0702073113737424,
-    "monthly_cost": 500,
+    "cost": 0.06852233590077259,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3767,8 +3767,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.18054124631875312,
-    "monthly_cost": 500,
+    "cost": 0.17620825640710305,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3796,8 +3796,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.14843121445373983,
-    "monthly_cost": 500,
+    "cost": 0.14486886530685006,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3825,8 +3825,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.1142041735750172,
-    "monthly_cost": 500,
+    "cost": 0.1114632734092168,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3854,8 +3854,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.08020950264246494,
-    "monthly_cost": 500,
+    "cost": 0.07828447457904579,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3883,8 +3883,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.11168705037373003,
-    "monthly_cost": 500,
+    "cost": 0.10900656116476051,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3912,8 +3912,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.25855885797995143,
-    "monthly_cost": 500,
+    "cost": 0.2523534453884326,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3941,8 +3941,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.14982827507745242,
-    "monthly_cost": 500,
+    "cost": 0.14623239647559355,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3970,8 +3970,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.21252299303123437,
-    "monthly_cost": 500,
+    "cost": 0.20742244119848474,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -3999,8 +3999,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.1175207445599517,
-    "monthly_cost": 500,
+    "cost": 0.11470024669051286,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4028,8 +4028,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.15201398650064218,
-    "monthly_cost": 500,
+    "cost": 0.14836565082462677,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4057,8 +4057,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.06532899833186094,
-    "monthly_cost": 500,
+    "cost": 0.06376110237189628,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4086,8 +4086,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.07689241054875309,
-    "monthly_cost": 500,
+    "cost": 0.07504699269558301,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4115,8 +4115,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.11797357194125652,
-    "monthly_cost": 500,
+    "cost": 0.11514220621466635,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4144,8 +4144,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.27090290113497756,
-    "monthly_cost": 500,
+    "cost": 0.2644012315077381,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4173,8 +4173,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.15689088093989995,
-    "monthly_cost": 500,
+    "cost": 0.15312549979734236,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4202,8 +4202,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.21878594974128646,
-    "monthly_cost": 500,
+    "cost": 0.2135350869474956,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4231,8 +4231,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.1537106503962423,
-    "monthly_cost": 500,
+    "cost": 0.15002159478673247,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4260,8 +4260,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.33298615366511514,
-    "monthly_cost": 500,
+    "cost": 0.3249944859771524,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4289,8 +4289,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.18856931957256165,
-    "monthly_cost": 500,
+    "cost": 0.18404365590282018,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4318,8 +4318,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.4425703416700708,
-    "monthly_cost": 500,
+    "cost": 0.4319486534699891,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4347,8 +4347,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695282672759,
-    "cost": 0.2537786237400724,
-    "monthly_cost": 500,
+    "cost": 0.24768793677031062,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4376,8 +4376,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.037200789898612675,
-    "monthly_cost": 165.56,
+    "cost": 0.07392522273884737,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -4405,8 +4405,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.03553036045596274,
-    "monthly_cost": 165.56,
+    "cost": 0.07060575374493681,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4434,8 +4434,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.018629486674031283,
-    "monthly_cost": 165.56,
+    "cost": 0.037020422298600454,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -4463,8 +4463,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.018500466942343474,
-    "monthly_cost": 165.56,
+    "cost": 0.036764034936162135,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4492,8 +4492,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.011239014463465456,
-    "monthly_cost": 165.56,
+    "cost": 0.022334113061609897,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -4521,8 +4521,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.011178464905805244,
-    "monthly_cost": 165.56,
+    "cost": 0.022213789284911363,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4550,8 +4550,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.010265193286166867,
-    "monthly_cost": 165.56,
+    "cost": 0.020398940511892363,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -4579,8 +4579,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.010186159472713945,
-    "monthly_cost": 165.56,
+    "cost": 0.020241884914972745,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4608,8 +4608,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.010918877269224534,
-    "monthly_cost": 165.56,
+    "cost": 0.021697938038021693,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -4637,8 +4637,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695261104789,
-    "cost": 0.010806843622157752,
-    "monthly_cost": 165.56,
+    "cost": 0.02147530533758094,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4666,8 +4666,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.04790388022122946,
-    "monthly_cost": 165.56,
+    "cost": 0.09519435004097905,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -4695,8 +4695,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.050248573369468724,
-    "monthly_cost": 165.56,
+    "cost": 0.09985371248221316,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4724,8 +4724,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.020783332951935424,
-    "monthly_cost": 165.56,
+    "cost": 0.041300534798180445,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -4753,8 +4753,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.02128324302587519,
-    "monthly_cost": 165.56,
+    "cost": 0.042293953584881236,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4782,8 +4782,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.012142804879312801,
-    "monthly_cost": 165.56,
+    "cost": 0.024130120834101907,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -4811,8 +4811,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.012204630921538381,
-    "monthly_cost": 165.56,
+    "cost": 0.024252981234513936,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4840,8 +4840,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.010625132947593244,
-    "monthly_cost": 165.56,
+    "cost": 0.02111421079824944,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -4869,8 +4869,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.011224586620123775,
-    "monthly_cost": 165.56,
+    "cost": 0.02230544212382654,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -4898,8 +4898,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.01054632975446551,
-    "monthly_cost": 165.56,
+    "cost": 0.020957613488881085,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -4927,8 +4927,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.011150456426802626,
-    "monthly_cost": 165.56,
+    "cost": 0.022158130976190286,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5292,8 +5292,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.009187737516486182,
-    "monthly_cost": 165.56,
+    "cost": 0.01825782582099513,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5321,8 +5321,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.023183692138641368,
-    "monthly_cost": 165.56,
+    "cost": 0.04607051651131318,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5350,8 +5350,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.024297375469572422,
-    "monthly_cost": 165.56,
+    "cost": 0.0482836224298703,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -5379,8 +5379,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.009021073419182865,
-    "monthly_cost": 165.56,
+    "cost": 0.017926631764382472,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -5408,8 +5408,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.004705840599592171,
-    "monthly_cost": 165.56,
+    "cost": 0.009351422790926699,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5437,8 +5437,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.004658268255173345,
-    "monthly_cost": 165.56,
+    "cost": 0.009256887267166168,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -5466,8 +5466,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0027735002829079487,
-    "monthly_cost": 165.56,
+    "cost": 0.005511485824333868,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5495,8 +5495,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0030931777015000225,
-    "monthly_cost": 165.56,
+    "cost": 0.006146747184063224,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5524,8 +5524,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0028010699091187375,
-    "monthly_cost": 165.56,
+    "cost": 0.0055662720469924175,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -5553,8 +5553,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0030995891962680793,
-    "monthly_cost": 165.56,
+    "cost": 0.006159488074246183,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -5844,8 +5844,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.02351993466518711,
-    "monthly_cost": 165.56,
+    "cost": 0.0467386959703223,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5873,8 +5873,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.07115478662387328,
-    "monthly_cost": 165.56,
+    "cost": 0.14139843439994146,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5902,8 +5902,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.01635776094436668,
-    "monthly_cost": 165.56,
+    "cost": 0.03250606034486976,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5931,8 +5931,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.006471147147613056,
-    "monthly_cost": 165.56,
+    "cost": 0.012859431091837977,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5960,8 +5960,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.014703659698616601,
-    "monthly_cost": 165.56,
+    "cost": 0.029219038661783412,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -5989,8 +5989,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.018774572068367155,
-    "monthly_cost": 165.56,
+    "cost": 0.03730873526511714,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -6018,8 +6018,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.013728977470038947,
-    "monthly_cost": 165.56,
+    "cost": 0.027282155035291213,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6047,8 +6047,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0185067787269539,
-    "monthly_cost": 165.56,
+    "cost": 0.03677657768282093,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6076,8 +6076,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.026153257283956184,
-    "monthly_cost": 165.56,
+    "cost": 0.0519716214449238,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6105,8 +6105,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.00868637215193398,
-    "monthly_cost": 165.56,
+    "cost": 0.01726151508810268,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6134,8 +6134,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.006766141992442234,
-    "monthly_cost": 165.56,
+    "cost": 0.013445643365024735,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6163,8 +6163,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.008918538244543481,
-    "monthly_cost": 165.56,
+    "cost": 0.01772287438061612,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -6192,8 +6192,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.004652124724639411,
-    "monthly_cost": 165.56,
+    "cost": 0.009244678874162637,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6221,8 +6221,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.0048561623700635855,
-    "monthly_cost": 165.56,
+    "cost": 0.009650141457785212,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6250,8 +6250,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0047644459758135055,
-    "monthly_cost": 165.56,
+    "cost": 0.009467883100040127,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6279,8 +6279,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.004874898899770004,
-    "monthly_cost": 165.56,
+    "cost": 0.009687374595459841,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -6308,8 +6308,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.003259579767389355,
-    "monthly_cost": 165.56,
+    "cost": 0.006477420533166815,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6337,8 +6337,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0034603635077466127,
-    "monthly_cost": 165.56,
+    "cost": 0.006876416972992483,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6366,8 +6366,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.003298294461621131,
-    "monthly_cost": 165.56,
+    "cost": 0.006554354178988596,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -6395,8 +6395,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0034969782254824274,
-    "monthly_cost": 165.56,
+    "cost": 0.006949177556074647,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -6424,8 +6424,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.07621763847807729,
-    "monthly_cost": 165.56,
+    "cost": 0.15145930816191971,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6453,8 +6453,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.019986562681462025,
-    "monthly_cost": 165.56,
+    "cost": 0.03971719692075989,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6482,8 +6482,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.014916160849673992,
-    "monthly_cost": 165.56,
+    "cost": 0.029641319881268082,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6511,8 +6511,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.013361032990688405,
-    "monthly_cost": 165.56,
+    "cost": 0.026550977614982395,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6540,8 +6540,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.005508516838856611,
-    "monthly_cost": 165.56,
+    "cost": 0.010946496979849148,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6685,8 +6685,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.17271699342993088,
-    "monthly_cost": 500,
+    "cost": 0.16857178558761254,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6714,8 +6714,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.1007376505175489,
-    "monthly_cost": 500,
+    "cost": 0.09831994690512773,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -6743,8 +6743,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.17689019170844406,
-    "monthly_cost": 500,
+    "cost": 0.1726448271074414,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7064,8 +7064,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.06576258180593869,
-    "monthly_cost": 500,
+    "cost": 0.06418427984259616,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7093,8 +7093,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.07556530398745963,
-    "monthly_cost": 500,
+    "cost": 0.0737517366917606,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7122,8 +7122,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.05629917604340611,
-    "monthly_cost": 165.56,
+    "cost": 0.11187743970935378,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7181,8 +7181,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.1868983904601191,
-    "monthly_cost": 500,
+    "cost": 0.18241282908907624,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7300,8 +7300,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.1135752884712565,
-    "monthly_cost": 500,
+    "cost": 0.11084948154794635,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7329,8 +7329,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.06679503510687937,
-    "monthly_cost": 500,
+    "cost": 0.06519195426431426,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7358,8 +7358,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.02214476107646454,
-    "monthly_cost": 165.56,
+    "cost": 0.04400595792556676,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7387,8 +7387,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.10858479587754118,
-    "monthly_cost": 500,
+    "cost": 0.10597876077648019,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7416,8 +7416,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.07512233200563061,
-    "monthly_cost": 500,
+    "cost": 0.07331939603749546,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7445,8 +7445,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.12067106781908583,
-    "monthly_cost": 165.56,
+    "cost": 0.23979693955351075,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7504,8 +7504,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.02022404232459992,
-    "monthly_cost": 165.56,
+    "cost": 0.0401891152741808,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7563,8 +7563,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.08278943484001501,
-    "monthly_cost": 500,
+    "cost": 0.08080248840385465,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7622,8 +7622,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.07653117768124504,
-    "monthly_cost": 500,
+    "cost": 0.07469442941689515,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7651,8 +7651,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.009906708902927401,
-    "monthly_cost": 165.56,
+    "cost": 0.019686562147035003,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7707,8 +7707,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.021135178686499462,
-    "monthly_cost": 165.56,
+    "cost": 0.04199972087375165,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7736,8 +7736,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.00619160025067064,
-    "monthly_cost": 165.56,
+    "cost": 0.012303916903060161,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7765,8 +7765,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.012285438015032863,
-    "monthly_cost": 165.56,
+    "cost": 0.024413560684620753,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7824,8 +7824,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.17989551508439036,
-    "monthly_cost": 500,
+    "cost": 0.175578022722365,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7853,8 +7853,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.2544913694099523,
-    "monthly_cost": 500,
+    "cost": 0.24838357654411344,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7882,8 +7882,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.025360598751555594,
-    "monthly_cost": 165.56,
+    "cost": 0.05039645439273852,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7911,8 +7911,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.23690126245244753,
-    "monthly_cost": 500,
+    "cost": 0.23121563215358878,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7940,8 +7940,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.005589455964076788,
-    "monthly_cost": 165.56,
+    "cost": 0.01110733880273776,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -7969,8 +7969,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.14788684758503223,
-    "monthly_cost": 500,
+    "cost": 0.14433756324299146,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8082,8 +8082,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.3412364360850188,
-    "monthly_cost": 500,
+    "cost": 0.33304676161897834,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8141,8 +8141,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.1169742105981277,
-    "monthly_cost": 500,
+    "cost": 0.11416682954377262,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8170,8 +8170,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.11915402907252427,
-    "monthly_cost": 500,
+    "cost": 0.11629433237478369,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8199,8 +8199,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.20165380807622565,
-    "monthly_cost": 500,
+    "cost": 0.19681411668239623,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8228,8 +8228,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.003430193839239403,
-    "monthly_cost": 165.56,
+    "cost": 0.006816463959348657,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8257,8 +8257,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.14555097787468185,
-    "monthly_cost": 500,
+    "cost": 0.1420577544056895,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8286,8 +8286,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.17461833581935934,
-    "monthly_cost": 500,
+    "cost": 0.1704274957596947,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8315,8 +8315,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.0038118715531950554,
-    "monthly_cost": 165.56,
+    "cost": 0.007574931994450189,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8344,8 +8344,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.00377047882424611,
-    "monthly_cost": 165.56,
+    "cost": 0.007492676571496559,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8373,8 +8373,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.0040802823829922275,
-    "monthly_cost": 165.56,
+    "cost": 0.008108316646559815,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8489,8 +8489,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.3659917814101209,
-    "monthly_cost": 500,
+    "cost": 0.357207978656278,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8578,8 +8578,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.18219031282998913,
-    "monthly_cost": 500,
+    "cost": 0.1778177453220694,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8607,8 +8607,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.21441412811749613,
-    "monthly_cost": 500,
+    "cost": 0.20926818904267622,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8726,8 +8726,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.034538008570635756,
-    "monthly_cost": 165.56,
+    "cost": 0.0686337570653489,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8755,8 +8755,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.019569892152415284,
-    "monthly_cost": 165.56,
+    "cost": 0.03888919133936113,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8814,8 +8814,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.012145135625985626,
-    "monthly_cost": 165.56,
+    "cost": 0.02413475248217728,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8843,8 +8843,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.009048501556052465,
-    "monthly_cost": 165.56,
+    "cost": 0.01798113682013325,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8872,8 +8872,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.4033765680145015,
-    "monthly_cost": 165.56,
+    "cost": 0.8015878888425404,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8961,8 +8961,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.006133176986312901,
-    "monthly_cost": 165.56,
+    "cost": 0.012187818485726892,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -8990,8 +8990,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.06241358674413437,
-    "monthly_cost": 165.56,
+    "cost": 0.12402796592667437,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9019,8 +9019,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.02113408541603768,
-    "monthly_cost": 165.56,
+    "cost": 0.04199754833218409,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9164,8 +9164,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.15357532727955747,
-    "monthly_cost": 165.56,
+    "cost": 0.30518411859733274,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9193,8 +9193,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.022211805596808954,
-    "monthly_cost": 165.56,
+    "cost": 0.04413918845947177,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9222,8 +9222,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.16846851001627217,
-    "monthly_cost": 165.56,
+    "cost": 0.3347797764880016,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9281,8 +9281,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.6150287807202344,
-    "monthly_cost": 165.56,
+    "cost": 1.2221821023010213,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9310,8 +9310,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.09679013893042966,
-    "monthly_cost": 165.56,
+    "cost": 0.1923408776764397,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9369,8 +9369,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.023734690919366846,
-    "monthly_cost": 165.56,
+    "cost": 0.04716545851939896,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9398,8 +9398,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.006974259355175957,
-    "monthly_cost": 165.56,
+    "cost": 0.01385921314238276,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9427,8 +9427,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.007618883901763149,
-    "monthly_cost": 165.56,
+    "cost": 0.015140207801884973,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9486,8 +9486,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.22868728210247358,
-    "monthly_cost": 500,
+    "cost": 0.2231987873320142,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9515,8 +9515,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.003953189175645085,
-    "monthly_cost": 165.56,
+    "cost": 0.007855757663609766,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9544,8 +9544,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.3503722379502142,
-    "monthly_cost": 500,
+    "cost": 0.34196330423940907,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9573,8 +9573,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.003927309652141159,
-    "monthly_cost": 165.56,
+    "cost": 0.007804330004556906,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9710,8 +9710,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.17855644683499122,
-    "monthly_cost": 500,
+    "cost": 0.17427109211095143,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9739,8 +9739,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.154664120305315,
-    "monthly_cost": 500,
+    "cost": 0.15095218141798747,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -9768,8 +9768,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.16125475156499305,
-    "monthly_cost": 500,
+    "cost": 0.1573846375274332,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -10153,8 +10153,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.03087038917158956,
-    "monthly_cost": 165.56,
+    "cost": 0.061345482226703094,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -10209,8 +10209,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.009379162408938923,
-    "monthly_cost": 165.56,
+    "cost": 0.018638224405296604,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -10265,8 +10265,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.005054988096456992,
-    "monthly_cost": 165.56,
+    "cost": 0.010045246942101658,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -10578,8 +10578,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.5094248095673416,
-    "monthly_cost": 165.56,
+    "cost": 1.0123264215248575,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -10664,8 +10664,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.0032247442308792297,
-    "monthly_cost": 165.56,
+    "cost": 0.006408195530075299,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -10693,8 +10693,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.002752033345334595,
-    "monthly_cost": 165.56,
+    "cost": 0.00546882683386737,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -10722,8 +10722,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.19676822052492662,
-    "monthly_cost": 165.56,
+    "cost": 0.39101681899432744,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -10809,8 +10809,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.21559631428473372,
-    "monthly_cost": 165.56,
+    "cost": 0.4284319122957078,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -10896,8 +10896,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.7366684857657803,
-    "monthly_cost": 165.56,
+    "cost": 1.4639039128831948,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11012,8 +11012,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.0522064752657047,
-    "monthly_cost": 165.56,
+    "cost": 0.10374444529123487,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11041,8 +11041,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.004902172171411553,
-    "monthly_cost": 165.56,
+    "cost": 0.009741571903807688,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11070,8 +11070,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.008916805131005089,
-    "monthly_cost": 165.56,
+    "cost": 0.017719430346102162,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11099,8 +11099,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.01793461203897086,
-    "monthly_cost": 165.56,
+    "cost": 0.03563957091580945,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11128,8 +11128,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.022244928457533213,
-    "monthly_cost": 165.56,
+    "cost": 0.04420501004184844,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11157,8 +11157,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.011650140748617236,
-    "monthly_cost": 165.56,
+    "cost": 0.023151101149402453,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11186,8 +11186,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.030667252731964783,
-    "monthly_cost": 165.56,
+    "cost": 0.0609418105147162,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11215,8 +11215,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.008073250219555404,
-    "monthly_cost": 165.56,
+    "cost": 0.016043122265243584,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11244,8 +11244,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.017984876739556434,
-    "monthly_cost": 165.56,
+    "cost": 0.03573945667621446,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11273,8 +11273,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.24026682951502157,
-    "monthly_cost": 500,
+    "cost": 0.23450042560666104,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11302,8 +11302,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.012254471204085586,
-    "monthly_cost": 165.56,
+    "cost": 0.024352023593525958,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11331,8 +11331,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.0032018060201525465,
-    "monthly_cost": 165.56,
+    "cost": 0.006362612832992195,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11360,8 +11360,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.013324145626672458,
-    "monthly_cost": 165.56,
+    "cost": 0.0264776752305825,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11389,8 +11389,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.030605460438722795,
-    "monthly_cost": 165.56,
+    "cost": 0.06081901718011476,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11418,8 +11418,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.0034739951624865894,
-    "monthly_cost": 165.56,
+    "cost": 0.006903505728787678,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11447,8 +11447,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.02382543906555339,
-    "monthly_cost": 165.56,
+    "cost": 0.04734579277945799,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -11476,8 +11476,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.026759643876281332,
-    "monthly_cost": 165.56,
+    "cost": 0.053176629833876284,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11505,8 +11505,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.01187520310780552,
-    "monthly_cost": 165.56,
+    "cost": 0.023598343938560137,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -11534,8 +11534,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.18375345668246154,
-    "monthly_cost": 500,
+    "cost": 0.17934337372208248,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11563,8 +11563,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.426620509219938,
-    "monthly_cost": 500,
+    "cost": 0.41638161699865944,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11592,8 +11592,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.16554665922720233,
-    "monthly_cost": 500,
+    "cost": 0.16157353940574948,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11621,8 +11621,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.17199088182438574,
-    "monthly_cost": 500,
+    "cost": 0.16786310066060048,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11650,8 +11650,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.010293208217455543,
-    "monthly_cost": 165.56,
+    "cost": 0.020454611642563868,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11679,8 +11679,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.005455353683383833,
-    "monthly_cost": 165.56,
+    "cost": 0.010840851424458089,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11708,8 +11708,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.005596788015697719,
-    "monthly_cost": 165.56,
+    "cost": 0.011121909018872611,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11737,8 +11737,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.01228571851734328,
-    "monthly_cost": 165.56,
+    "cost": 0.024414118097402387,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11766,8 +11766,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.006732494574305252,
-    "monthly_cost": 165.56,
+    "cost": 0.013378779384793597,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11825,8 +11825,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.11395467144690194,
-    "monthly_cost": 165.56,
+    "cost": 0.2264501504350733,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11914,8 +11914,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.039954964700358614,
-    "monthly_cost": 165.56,
+    "cost": 0.07939830506413374,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11943,8 +11943,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.007749852543489409,
-    "monthly_cost": 165.56,
+    "cost": 0.015400468028557716,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -11972,8 +11972,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.04109878689613896,
-    "monthly_cost": 165.56,
+    "cost": 0.08167130278346048,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12061,8 +12061,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.005381616797607012,
-    "monthly_cost": 165.56,
+    "cost": 0.01069432185559741,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12090,8 +12090,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.1730725171069229,
-    "monthly_cost": 165.56,
+    "cost": 0.3439288362417108,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12119,8 +12119,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.005489036931295286,
-    "monthly_cost": 165.56,
+    "cost": 0.010907786605436997,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12178,8 +12178,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.006804012450088511,
-    "monthly_cost": 165.56,
+    "cost": 0.013520899348146412,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -12297,8 +12297,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.006120881719364342,
-    "monthly_cost": 165.56,
+    "cost": 0.012163385393034964,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12326,8 +12326,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.006099954668296208,
-    "monthly_cost": 165.56,
+    "cost": 0.012121799262318508,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12385,8 +12385,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.0878240679662314,
-    "monthly_cost": 165.56,
+    "cost": 0.17452354651419505,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12414,8 +12414,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.005469027254189935,
-    "monthly_cost": 165.56,
+    "cost": 0.010868023475649243,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -12443,8 +12443,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.00554841428141371,
-    "monthly_cost": 165.56,
+    "cost": 0.011025780977199267,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -12561,8 +12561,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.05016333295333014,
-    "monthly_cost": 165.56,
+    "cost": 0.09968432315562706,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12590,8 +12590,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.2895493915349653,
-    "monthly_cost": 500,
+    "cost": 0.2826002061381261,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12767,8 +12767,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.23053521262874713,
-    "monthly_cost": 500,
+    "cost": 0.2250023675256572,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12826,8 +12826,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.9912143416913981,
-    "monthly_cost": 165.56,
+    "cost": 1.96973615859187,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12855,8 +12855,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.22170791046628438,
-    "monthly_cost": 500,
+    "cost": 0.21638692061509354,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12913,8 +12913,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695282672759,
-    "cost": 0.5352974192498368,
-    "monthly_cost": 500,
+    "cost": 0.5224502811878408,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -12971,8 +12971,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.012207647436330005,
-    "monthly_cost": 165.56,
+    "cost": 0.024258975637548755,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13000,8 +13000,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.09232493040533471,
-    "monthly_cost": 165.56,
+    "cost": 0.18346763773468905,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13029,8 +13029,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.011295349295618868,
-    "monthly_cost": 165.56,
+    "cost": 0.02244606135696187,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13058,8 +13058,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.3909907300074547,
-    "monthly_cost": 165.56,
+    "cost": 0.7769748137983365,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13117,8 +13117,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.017958357923602005,
-    "monthly_cost": 165.56,
+    "cost": 0.03568675861841664,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13175,8 +13175,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.06092270456769188,
-    "monthly_cost": 165.56,
+    "cost": 0.1210652923578801,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13204,8 +13204,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.43270416741582307,
-    "monthly_cost": 165.56,
+    "cost": 0.859867546990854,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13233,8 +13233,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.023496172663726184,
-    "monthly_cost": 165.56,
+    "cost": 0.046691476240431955,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13262,8 +13262,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.029121403002306596,
-    "monthly_cost": 165.56,
+    "cost": 0.0578699057004039,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13410,8 +13410,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.007040927734360807,
-    "monthly_cost": 165.56,
+    "cost": 0.013991696210465726,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13555,8 +13555,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.045815214530378595,
-    "monthly_cost": 165.56,
+    "cost": 0.09104376407643487,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13584,8 +13584,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 1.4391314618868591,
-    "monthly_cost": 165.56,
+    "cost": 2.8598348088957275,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13673,8 +13673,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.015864983229991202,
-    "monthly_cost": 165.56,
+    "cost": 0.03152681494725239,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13731,8 +13731,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.03244170120804993,
-    "monthly_cost": 165.56,
+    "cost": 0.06446798560913522,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13760,8 +13760,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.021472427777301593,
-    "monthly_cost": 165.56,
+    "cost": 0.04266990057219271,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13789,8 +13789,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.016011893365356435,
-    "monthly_cost": 165.56,
+    "cost": 0.031818754029972626,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13848,8 +13848,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.21464106639811123,
-    "monthly_cost": 165.56,
+    "cost": 0.42653364849588427,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13906,8 +13906,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.07775325393255919,
-    "monthly_cost": 165.56,
+    "cost": 0.1545108754760327,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13935,8 +13935,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.00914795517247752,
-    "monthly_cost": 165.56,
+    "cost": 0.018178770546902052,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -13994,8 +13994,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.0822975933255628,
-    "monthly_cost": 165.56,
+    "cost": 0.16354136388082968,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14023,8 +14023,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695696842455,
-    "cost": 0.008954394505840572,
-    "monthly_cost": 165.56,
+    "cost": 0.017794127762874777,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14141,8 +14141,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.31656052719822697,
-    "monthly_cost": 165.56,
+    "cost": 0.6290674888150318,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14229,8 +14229,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.0173604864252249,
-    "monthly_cost": 165.56,
+    "cost": 0.03449867138136622,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14431,8 +14431,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.005417792373342795,
-    "monthly_cost": 165.56,
+    "cost": 0.01076620977790396,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14518,8 +14518,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.019847363526902296,
-    "monthly_cost": 165.56,
+    "cost": 0.03944058106034583,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14547,8 +14547,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.005468111200568116,
-    "monthly_cost": 165.56,
+    "cost": 0.010866203098495472,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14605,8 +14605,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.01996866685900815,
-    "monthly_cost": 165.56,
+    "cost": 0.03968163443231264,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14750,8 +14750,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 1.9235251295340363,
-    "monthly_cost": 165.56,
+    "cost": 3.822419470987545,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14779,8 +14779,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.11298516227302963,
-    "monthly_cost": 165.56,
+    "cost": 0.22452354667689506,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14865,8 +14865,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.16851431659416313,
-    "monthly_cost": 165.56,
+    "cost": 0.33487080308939154,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -14975,8 +14975,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.7792756551738729,
-    "monthly_cost": 165.56,
+    "cost": 1.5485726658142316,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15004,8 +15004,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.03634218515270926,
-    "monthly_cost": 165.56,
+    "cost": 0.0722190077025933,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15033,8 +15033,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.8537433358050256,
-    "monthly_cost": 165.56,
+    "cost": 1.6965544665369257,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15233,8 +15233,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.09832424988504498,
-    "monthly_cost": 500,
+    "cost": 0.09596446788780391,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15349,8 +15349,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.0691965566525323,
-    "monthly_cost": 500,
+    "cost": 0.06753583929287153,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15408,8 +15408,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.03442435201977041,
-    "monthly_cost": 165.56,
+    "cost": 0.06840789933863532,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -15437,8 +15437,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.03994222910123895,
-    "monthly_cost": 165.56,
+    "cost": 0.07937299694556423,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15466,8 +15466,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.01883894899322877,
-    "monthly_cost": 165.56,
+    "cost": 0.03743666476668438,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15524,8 +15524,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.017462960543017964,
-    "monthly_cost": 165.56,
+    "cost": 0.0347023074332744,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -15582,8 +15582,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 2.786265540217662,
-    "monthly_cost": 165.56,
+    "cost": 5.536852879509608,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15639,8 +15639,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.033723746767838965,
-    "monthly_cost": 165.56,
+    "cost": 0.06701566010279668,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15668,8 +15668,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.017881489931729548,
-    "monthly_cost": 165.56,
+    "cost": 0.03553400693125768,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15726,8 +15726,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.06281328492468674,
-    "monthly_cost": 500,
+    "cost": 0.061305766086494254,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15785,8 +15785,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4178757098049391,
-    "monthly_cost": 500,
+    "cost": 0.40784669276962054,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15844,8 +15844,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.06312305570812896,
-    "monthly_cost": 500,
+    "cost": 0.06160810237113386,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15873,8 +15873,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4269110734399874,
-    "monthly_cost": 500,
+    "cost": 0.4166652076774277,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -15931,8 +15931,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.21310109110563505,
-    "monthly_cost": 165.56,
+    "cost": 0.4234734173336188,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16077,8 +16077,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.47472235502005783,
-    "monthly_cost": 500,
+    "cost": 0.4633290184995765,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16106,8 +16106,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.3208504655450152,
-    "monthly_cost": 165.56,
+    "cost": 0.6375924327392486,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16165,8 +16165,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.010443191399826312,
-    "monthly_cost": 165.56,
+    "cost": 0.020752657468850303,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16194,8 +16194,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.6155038228443833,
-    "monthly_cost": 165.56,
+    "cost": 1.2231261036228684,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16223,8 +16223,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.010820644040481052,
-    "monthly_cost": 165.56,
+    "cost": 0.021502729459520812,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16310,8 +16310,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.4033452352423131,
-    "monthly_cost": 165.56,
+    "cost": 0.8015256245151063,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16339,8 +16339,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.042025146517726056,
-    "monthly_cost": 165.56,
+    "cost": 0.08351215996817994,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16456,8 +16456,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.15254617330194165,
-    "monthly_cost": 165.56,
+    "cost": 0.3031389889848925,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16515,8 +16515,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.7357051077711432,
-    "monthly_cost": 165.56,
+    "cost": 1.461989492973581,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16544,8 +16544,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.03837821205517282,
-    "monthly_cost": 165.56,
+    "cost": 0.07626499013138353,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16632,8 +16632,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.17320303430628559,
-    "monthly_cost": 165.56,
+    "cost": 0.3441881993643873,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16690,8 +16690,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.1656070075391588,
-    "monthly_cost": 165.56,
+    "cost": 0.32909341314558616,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16719,8 +16719,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.5093505101341729,
-    "monthly_cost": 165.56,
+    "cost": 1.0121787740646466,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16748,8 +16748,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.43210736850502146,
-    "monthly_cost": 500,
+    "cost": 0.42173679166090094,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16777,8 +16777,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.07611272789254143,
-    "monthly_cost": 500,
+    "cost": 0.07428602242312045,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16835,8 +16835,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.011417647830628702,
-    "monthly_cost": 165.56,
+    "cost": 0.022689092391138217,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16923,8 +16923,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.07669108659805589,
-    "monthly_cost": 165.56,
+    "cost": 0.15240014188668996,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -16952,8 +16952,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.3073793918799492,
-    "monthly_cost": 500,
+    "cost": 0.30000228647483046,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17040,8 +17040,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.431333684455949,
-    "monthly_cost": 500,
+    "cost": 0.4209816760290062,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17069,8 +17069,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.19683764446939986,
-    "monthly_cost": 165.56,
+    "cost": 0.3911547779079038,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17214,8 +17214,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.10462602774001424,
-    "monthly_cost": 500,
+    "cost": 0.1021150030742539,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17243,8 +17243,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.009724050398815803,
-    "monthly_cost": 165.56,
+    "cost": 0.01932358408559072,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17330,8 +17330,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.009316890782666419,
-    "monthly_cost": 165.56,
+    "cost": 0.01851447854250575,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17359,8 +17359,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.22166021275163844,
-    "monthly_cost": 165.56,
+    "cost": 0.4404820608558169,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17388,8 +17388,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4343433542062484,
-    "monthly_cost": 500,
+    "cost": 0.4239191137052985,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17445,8 +17445,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.21389754329993255,
-    "monthly_cost": 165.56,
+    "cost": 0.4250561231316611,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17502,8 +17502,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.07060394124157028,
-    "monthly_cost": 500,
+    "cost": 0.0689094466517726,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17531,8 +17531,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.01056440641045045,
-    "monthly_cost": 165.56,
+    "cost": 0.020993535328812502,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -17560,8 +17560,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.41632198692503153,
-    "monthly_cost": 500,
+    "cost": 0.40633025923883076,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17618,8 +17618,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.07082017809749232,
-    "monthly_cost": 500,
+    "cost": 0.06912049382315251,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17676,8 +17676,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.010427343327865954,
-    "monthly_cost": 165.56,
+    "cost": 0.020721164259893083,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17762,8 +17762,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 1.4140327619281057,
-    "monthly_cost": 165.56,
+    "cost": 2.8099587984679073,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17791,8 +17791,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.010021539365941547,
-    "monthly_cost": 165.56,
+    "cost": 0.019914752666071327,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17820,8 +17820,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.009695938003185594,
-    "monthly_cost": 165.56,
+    "cost": 0.01926771927426951,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17849,8 +17849,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695639403054,
-    "cost": 0.08122830218391366,
-    "monthly_cost": 165.56,
+    "cost": 0.16141647389772648,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17878,8 +17878,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.41907533384001,
-    "monthly_cost": 500,
+    "cost": 0.4090175258278498,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17965,8 +17965,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.987989762173492,
-    "monthly_cost": 165.56,
+    "cost": 1.9633282903785871,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -17994,8 +17994,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 2.763986672316164,
-    "monthly_cost": 165.56,
+    "cost": 5.492580425175272,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -18023,8 +18023,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695190722638,
-    "cost": 0.009390907389512964,
-    "monthly_cost": 165.56,
+    "cost": 0.018661563971670483,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -18111,8 +18111,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.394216377755718,
-    "monthly_cost": 165.56,
+    "cost": 0.7833848047936169,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -18168,8 +18168,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.44021506977201136,
-    "monthly_cost": 165.56,
+    "cost": 0.8747931744080196,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -18197,8 +18197,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.4342162148223672,
-    "monthly_cost": 165.56,
+    "cost": 0.8628722799985432,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -18315,8 +18315,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.009806479164620496,
-    "monthly_cost": 165.56,
+    "cost": 0.019487386114762886,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -18403,8 +18403,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.1",
     "time_stamp": 1695261104789,
-    "cost": 0.009405216865309264,
-    "monthly_cost": 165.56,
+    "cost": 0.018689999690062502,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 128
@@ -18432,8 +18432,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 1.923291621450165,
-    "monthly_cost": 165.56,
+    "cost": 3.82195544489674,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -18547,8 +18547,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.7782801312988834,
-    "monthly_cost": 165.56,
+    "cost": 1.5465943657727268,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -18605,8 +18605,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4308956666649465,
-    "monthly_cost": 500,
+    "cost": 0.42055417066498774,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -18662,8 +18662,8 @@
     "dataset_group": "laion-768-5m-ip-probability",
     "dataset_tag": "ratio-0.01",
     "time_stamp": 1695639403054,
-    "cost": 0.8597875431833688,
-    "monthly_cost": 165.56,
+    "cost": 1.7085654850648002,
+    "monthly_cost": 329,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -18807,8 +18807,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4324891474728065,
-    "monthly_cost": 500,
+    "cost": 0.42210940793345914,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -18924,8 +18924,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4311530333750125,
-    "monthly_cost": 500,
+    "cost": 0.4208053605740122,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -19211,8 +19211,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4068103455801611,
-    "monthly_cost": 500,
+    "cost": 0.3970468972862372,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -19446,8 +19446,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.10819110374126469,
-    "monthly_cost": 500,
+    "cost": 0.10559451725147433,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -19620,8 +19620,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.1364984119925066,
-    "monthly_cost": 500,
+    "cost": 0.13322245010468642,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -20290,8 +20290,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.10302401072718567,
-    "monthly_cost": 500,
+    "cost": 0.1005514344697332,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -20403,8 +20403,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.1050658612656116,
-    "monthly_cost": 500,
+    "cost": 0.10254428059523693,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -21026,8 +21026,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4613095277699177,
-    "monthly_cost": 500,
+    "cost": 0.45023809910343965,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -21224,8 +21224,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.38053967063489835,
-    "monthly_cost": 500,
+    "cost": 0.3714067185396608,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -21477,8 +21477,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4189449273899663,
-    "monthly_cost": 500,
+    "cost": 0.4088902491326071,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -21732,8 +21732,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.18569923538758304,
-    "monthly_cost": 500,
+    "cost": 0.18124245373828105,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -21761,8 +21761,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.1615636602837185,
-    "monthly_cost": 500,
+    "cost": 0.15768613243690924,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -22185,8 +22185,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4315783526374435,
-    "monthly_cost": 500,
+    "cost": 0.4212204721741449,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -22270,8 +22270,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.15886748419907235,
-    "monthly_cost": 500,
+    "cost": 0.15505466457829462,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -22443,8 +22443,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.15875869314313604,
-    "monthly_cost": 500,
+    "cost": 0.15494848450770077,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -22704,8 +22704,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.43239161404375415,
-    "monthly_cost": 500,
+    "cost": 0.422014215306704,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -22789,8 +22789,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.43040825353062245,
-    "monthly_cost": 500,
+    "cost": 0.4200784554458875,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -23098,8 +23098,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.5536778490350116,
-    "monthly_cost": 500,
+    "cost": 0.5403895806581713,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -23387,8 +23387,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.41416342535754663,
-    "monthly_cost": 500,
+    "cost": 0.40422350314896555,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -23675,8 +23675,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.427461987016286,
-    "monthly_cost": 500,
+    "cost": 0.4172028993278951,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -23815,8 +23815,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.4281751371174869,
-    "monthly_cost": 500,
+    "cost": 0.4178989338266672,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
@@ -23932,8 +23932,8 @@
     "dataset_group": "laion-768-5m-ip",
     "dataset_tag": "no-filter",
     "time_stamp": 1695312244473,
-    "cost": 0.427078626520597,
-    "monthly_cost": 500,
+    "cost": 0.41682873948410265,
+    "monthly_cost": 488,
     "index_create_parameter": {
       "m": 12,
       "ef_construction": 100
