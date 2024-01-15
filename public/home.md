@@ -2,6 +2,19 @@
 
 Welcome to the MyScale Vector Database Benchmark website. We present an exhaustive and replicable analysis of various vector database services. We, at [MyScale](https://myscale.com), firmly believe in transparency and fostering a trustful relationship with our users.
 
+## Update 🔍
+
+- Jan 15, 2024: Update results of OpenSearch v2.11
+  [#8](https://github.com/myscale/benchmark/pull/8)
+- Nov 6, 2023: Re-test pgvecto.rs according to Allen's [advice](https://twitter.com/zhoujinjing09/status/1717388692434911278)
+  [#7](https://github.com/myscale/benchmark/pull/7)
+- Oct 10, 2023: Add results for pgvector, pgvecto.rs, and OpenSearch
+- Sep 6, 2023: Add results for cost-optimized pods of Zilliz
+  [#3](https://github.com/myscale/benchmark/pull/3)
+- June 22, 2023: Add benchmark for filtered vector search
+  [#2](https://github.com/myscale/benchmark/pull/2)
+- May 30, 2023: Release the first version
+
 ## What to Expect 🧐
 
 In this benchmark, we gauge the performance based on the following metrics:
