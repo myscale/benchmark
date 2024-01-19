@@ -4,7 +4,9 @@ Welcome to the MyScale Vector Database Benchmark website. We present an exhausti
 
 ## Update 🔍
 
-- Jan 15, 2024: Update results of OpenSearch v2.11
+- Jan 19, 2024: Add results of Weaviate v1.23.3 (huge performance improvement)
+  [#11](https://github.com/myscale/benchmark/pull/11)
+- Jan 15, 2024: Add results of OpenSearch v2.11
   [#8](https://github.com/myscale/benchmark/pull/8)
 - Nov 6, 2023: Re-test pgvecto.rs according to Allen's [advice](https://twitter.com/zhoujinjing09/status/1717388692434911278)
   [#7](https://github.com/myscale/benchmark/pull/7)
@@ -49,7 +51,7 @@ Let’s peek into the specs and costs of the cloud services we’ve put to the t
 | [Pinecone](https://www.pinecone.io/) | s1.x1 | 80 | Optimized for storage. |
 | [Pinecone](https://www.pinecone.io/) | 5 x p2.x1 | 600 | Performance-optimized via horizontal scaling. |
 | [Qdrant](https://qdrant.tech/) | 4C 32G | 273 | Utilizes HNSW algorithm. |
-| [Weaviate](https://weaviate.io/) | SLA Tier: Standard | 690 | Pricing for the laion-768-5m-ip dataset, assuming a consistent 5 queries per second. |
+| [Weaviate](https://weaviate.io/) | SLA Tier: Standard | 364.8 | Results updated on Jan 19, 2024. |
 | [Zilliz](https://zilliz.com) | Capacity-optimized 1 CU | 114 | Price reduced from $186 to $114 as of June 14, 2023. |
 | [Zilliz](https://zilliz.com) | Performance-optimized 4 CU | 458 | Price reduced from $746 to $458 as of June 14, 2023. |
 | [Zilliz](https://zilliz.com) | Cost-optimized 1 CU | 77 | Added on Sep 6, 2023. |
