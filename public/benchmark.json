@@ -13595,6 +13595,36 @@
     "total_upload": 4280.608269575023
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 3245.887199867601,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.94415,
+    "rps": 11.23883787504631,
+    "p95_time": 0.10109401380250346,
+    "mean_time": 0.08825406229207874,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 130587840284706111114999197079146604954,
     "engine": "opensearch-v2.11-1*r6g.2xlarge.search",
     "version": "v2.11",
@@ -13651,6 +13681,36 @@
     "p95_time": 0.17987673044990515,
     "mean_time": 0.11465930019431653,
     "total_upload": 4280.608269575023
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 855.8576822832925,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9446500000000001,
+    "rps": 42.62390903903222,
+    "p95_time": 0.07271206040095421,
+    "mean_time": 0.04616439539074781,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 238845836174288334123168323009114435314,
@@ -14081,6 +14141,36 @@
     "total_upload": 4280.608269575023
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 548.6360117981233,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9466975,
+    "rps": 66.4921718872206,
+    "p95_time": 0.09886592144175664,
+    "mean_time": 0.059118271166691556,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 238845836174288334123168323009114435314,
     "engine": "pgvecto.rs-1*r6a.xlarge",
     "version": "v0.1.3",
@@ -14170,6 +14260,36 @@
     "total_upload": 4301.106083501014
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 730.6207665654947,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9476749999999999,
+    "rps": 49.9301438850217,
+    "p95_time": 0.1886449088473455,
+    "mean_time": 0.15906592868808547,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 109104229723356631810701666471293587569,
     "engine": "myscale",
     "version": "myscale-v0.10.4",
@@ -14198,6 +14318,36 @@
     "p95_time": 0.01592048079983215,
     "mean_time": 0.01377648859849296,
     "total_upload": 1941.2548287990003
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 874.5640798128146,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 16,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.948055625,
+    "rps": 41.71220936470192,
+    "p95_time": 0.5220294206497783,
+    "mean_time": 0.38228644069478285,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 94783557865022552925472243888683623268,
@@ -16927,6 +17077,36 @@
     "total_upload": 2334.351436294004
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 1287.6199248442892,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9642000000000001,
+    "rps": 28.331341645254128,
+    "p95_time": 0.04203358000086155,
+    "mean_time": 0.034550860881063274,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 145680235624851528157057027452335962220,
     "engine": "myscale",
     "version": "myscale-v0.10.4",
@@ -17072,6 +17252,66 @@
     "p95_time": 0.03143023969969363,
     "mean_time": 0.02975924322807987,
     "total_upload": 2334.351436294004
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 278.06934640660654,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9657250000000001,
+    "rps": 131.19029649049187,
+    "p95_time": 0.03573172635369701,
+    "mean_time": 0.029410673112550283,
+    "total_upload": 4255.125206026001
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 614.6539218797163,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.96575,
+    "rps": 59.35047138142055,
+    "p95_time": 0.05814743604205432,
+    "mean_time": 0.032819352487887955,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 175450360001410000298822909285351089267,
@@ -17221,6 +17461,36 @@
     "total_upload": 4294.389953205
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 1269.540119650802,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.96603,
+    "rps": 28.734814627232222,
+    "p95_time": 0.04337468294397695,
+    "mean_time": 0.03407621091506735,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 289428609464126736155757477853608022244,
     "engine": "pgvecto.rs-1*r6a.xlarge",
     "version": "v0.1.3",
@@ -17279,6 +17549,36 @@
     "total_upload": 9717.524868532004
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 156.29992086358837,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9662875000000001,
+    "rps": 233.39743103157505,
+    "p95_time": 0.03929892944943276,
+    "mean_time": 0.03315775340642358,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 77857905252468790188205690886688598804,
     "engine": "opensearch-v2.7-1*r6g.2xlarge.search",
     "version": "v2.7",
@@ -17306,6 +17606,36 @@
     "p95_time": 0.1384266906272387,
     "mean_time": 0.11550129942430067,
     "total_upload": 3044.461535763985
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 89.97362577732945,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 16,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9663687500000001,
+    "rps": 405.4521498364672,
+    "p95_time": 0.049704865551757384,
+    "mean_time": 0.03754207653708272,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 289428609464126736155757477853608022244,
@@ -17687,6 +18017,36 @@
     "p95_time": 1.1726809754001806,
     "mean_time": 0.8964556453380265,
     "total_upload": 4294.389953205
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 666.6848390082037,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9675499999999999,
+    "rps": 54.718508454863944,
+    "p95_time": 0.04351184045081027,
+    "mean_time": 0.0358595168142856,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 189290653797812033097705082179691865596,
@@ -18885,6 +19245,66 @@
     "total_upload": 4294.389953205
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 868.8763877453002,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9707775000000002,
+    "rps": 41.9852587945958,
+    "p95_time": 0.10805568920259247,
+    "mean_time": 0.09432885356659608,
+    "total_upload": 4255.125206026001
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 18370.77855948955,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.970875,
+    "rps": 1.985762328029152,
+    "p95_time": 1.4145639728987582,
+    "mean_time": 1.006217856548552,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 130587840284706111114999197079146604954,
     "engine": "opensearch-v2.11-1*r6g.2xlarge.search",
     "version": "v2.11",
@@ -19087,6 +19507,36 @@
     "p95_time": 0.017678232698381178,
     "mean_time": 0.0161091027999355,
     "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 1082.6329296310992,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9712000000000001,
+    "rps": 33.69563127220816,
+    "p95_time": 0.03120314855041215,
+    "mean_time": 0.02819024380701012,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 289428609464126736155757477853608022244,
@@ -19440,6 +19890,36 @@
     "total_upload": 3583.3111332420085
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 685.901580230752,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 16,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9716437499999999,
+    "rps": 53.18547303496129,
+    "p95_time": 0.3815771132503869,
+    "mean_time": 0.2995204950876505,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 289428609464126736155757477853608022244,
     "engine": "pgvecto.rs-1*r6a.xlarge",
     "version": "v0.1.3",
@@ -19698,6 +20178,36 @@
     "p95_time": 0.01382045709947306,
     "mean_time": 0.011824296308749127,
     "total_upload": 2752.150063756
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 804.7653342270933,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9718825,
+    "rps": 45.32998434262312,
+    "p95_time": 0.20828965989858259,
+    "mean_time": 0.17533579392066348,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 166784500821453953308212910131125342838,
@@ -19990,6 +20500,66 @@
     "total_upload": 9717.524868532004
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 11186.764290762765,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97230625,
+    "rps": 3.260996571646959,
+    "p95_time": 3.4156578508518574,
+    "mean_time": 2.4522363726948933,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 12040.534068939696,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 16,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.972321875,
+    "rps": 3.029765938215768,
+    "p95_time": 7.7360853486956325,
+    "mean_time": 5.278842427748883,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 19242383228689246000696724133546403219,
     "engine": "qdrant-4c32g",
     "version": "v1.1.3",
@@ -20135,6 +20705,66 @@
     "total_upload": 4280.608269575023
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 546.3311004997697,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97245,
+    "rps": 66.77269510490805,
+    "p95_time": 0.03370886925404193,
+    "mean_time": 0.029177633438652265,
+    "total_upload": 4255.125206026001
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 10381.053161267535,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9725675000000001,
+    "rps": 3.514094324852274,
+    "p95_time": 2.0081669333500027,
+    "mean_time": 1.137490520496478,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 238845836174288334123168323009114435314,
     "engine": "pgvecto.rs-1*r6a.xlarge",
     "version": "v0.1.3",
@@ -20277,6 +20907,36 @@
     "p95_time": 0.04626606069650733,
     "mean_time": 0.02259755670980376,
     "total_upload": 4381.804938672023
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 34290.813228387546,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97291,
+    "rps": 1.0638417863417757,
+    "p95_time": 1.059414437241503,
+    "mean_time": 0.9394953604848997,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 183182506060216857367307579873844542605,
@@ -20994,6 +21654,36 @@
     "p95_time": 0.06690903105045436,
     "mean_time": 0.0441541735397077,
     "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 279.3443377008126,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9742250000000001,
+    "rps": 130.59151404411617,
+    "p95_time": 0.035420195297774626,
+    "mean_time": 0.029659511467576522,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 289428609464126736155757477853608022244,
@@ -22072,6 +22762,36 @@
     "total_upload": 4294.389953205
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 96.66641374690225,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 16,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9757374999999999,
+    "rps": 377.3802977269241,
+    "p95_time": 0.06351718384976265,
+    "mean_time": 0.040001749842990646,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 109104229723356631810701666471293587569,
     "engine": "myscale",
     "version": "myscale-v0.10.4",
@@ -22276,6 +22996,36 @@
     "p95_time": 0.10177696694954647,
     "mean_time": 0.08820596184818078,
     "total_upload": 2334.351436294004
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 144.08329179068562,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9761875,
+    "rps": 253.18688618660696,
+    "p95_time": 0.035271257412387055,
+    "mean_time": 0.030396882868368266,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 98858038577937078042976461630987161849,
@@ -23669,6 +24419,36 @@
     "total_upload": 39244.325722507
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 4659.633813388659,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9784,
+    "rps": 7.828941384874701,
+    "p95_time": 0.3128715238082804,
+    "mean_time": 0.25494529432453417,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 170880665943275421133505982548230375373,
     "engine": "opensearch-v2.7-1*r6g.2xlarge.search",
     "version": "v2.7",
@@ -23959,6 +24739,36 @@
     "total_upload": 4294.389953205
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 595.2159743296635,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9792000000000001,
+    "rps": 61.28867767886109,
+    "p95_time": 0.03701972174749244,
+    "mean_time": 0.03191411513205094,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 189290653797812033097705082179691865596,
     "engine": "qdrant-4c32g",
     "version": "v1.1.3",
@@ -24165,6 +24975,96 @@
     "total_upload": 37829.601222026
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 1145.8418716319932,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9795,
+    "rps": 31.836853673397776,
+    "p95_time": 0.03706090186024084,
+    "mean_time": 0.030803880808001848,
+    "total_upload": 4255.125206026001
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 2360.6045692910766,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.979565,
+    "rps": 15.453668299454096,
+    "p95_time": 0.33229998160386454,
+    "mean_time": 0.25825095214415705,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 671.8839095289912,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9796050000000001,
+    "rps": 54.29509396284466,
+    "p95_time": 0.041974074958852726,
+    "mean_time": 0.03598939152964158,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 189290653797812033097705082179691865596,
     "engine": "qdrant-4c32g",
     "version": "v1.1.3",
@@ -24192,6 +25092,36 @@
     "p95_time": 0.06733269090254908,
     "mean_time": 0.03937956715184555,
     "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 1335.6953339769411,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9796500000000001,
+    "rps": 27.311617456492346,
+    "p95_time": 0.04244513589510461,
+    "mean_time": 0.03590727092584711,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 149188626738309365960292261655480506036,
@@ -24222,6 +25152,36 @@
     "total_upload": 4742.282864647001
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 2277.6989793074786,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 16,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9798025000000001,
+    "rps": 16.01616382648226,
+    "p95_time": 1.2124157455444218,
+    "mean_time": 0.9980936750884739,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 189290653797812033097705082179691865596,
     "engine": "qdrant-4c32g",
     "version": "v1.1.3",
@@ -24249,6 +25209,36 @@
     "p95_time": 0.07003398159649805,
     "mean_time": 0.042760355123115004,
     "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 2061.5044298333,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97989875,
+    "rps": 17.695814509091253,
+    "p95_time": 0.6747032033483265,
+    "mean_time": 0.451388751595774,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 189290653797812033097705082179691865596,
@@ -24365,6 +25355,36 @@
     "p95_time": 0.07219412542181086,
     "mean_time": 0.05982310466183117,
     "total_upload": 4301.106083501014
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 299.21524882368743,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9801500000000001,
+    "rps": 121.91892005308806,
+    "p95_time": 0.0376207428460475,
+    "mean_time": 0.03186932054426143,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 149188626738309365960292261655480506036,
@@ -24744,6 +25764,36 @@
     "total_upload": 3830.6138227610063
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 9687.309521094028,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98119,
+    "rps": 3.765751462835489,
+    "p95_time": 0.3315225037571508,
+    "mean_time": 0.265076646599191,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 98858038577937078042976461630987161849,
     "engine": "opensearch-v2.11-1*r6g.2xlarge.search",
     "version": "v2.11",
@@ -24944,6 +25994,36 @@
     "p95_time": 0.03995884618489071,
     "mean_time": 0.010350345389684662,
     "total_upload": 6086.823213248979
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 125.01601669559196,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 16,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98153125,
+    "rps": 291.8026102913442,
+    "p95_time": 0.08877245484036392,
+    "mean_time": 0.052623655474587396,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 190581728639617235682084340948619560350,
@@ -25206,6 +26286,36 @@
     "total_upload": 4820.190272667
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 160.2919770679821,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.981925,
+    "rps": 227.5846905583323,
+    "p95_time": 0.040407698495982906,
+    "mean_time": 0.0339725209242788,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 94783557865022552925472243888683623268,
     "engine": "weaviate-standard",
     "version": "v1.18.4",
@@ -25293,6 +26403,36 @@
     "p95_time": 0.038893584547258796,
     "mean_time": 0.03031696895620189,
     "total_upload": 2334.351436294004
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 935.3036362042114,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.982025,
+    "rps": 39.003376644667576,
+    "p95_time": 0.11712091769295511,
+    "mean_time": 0.10165839964572661,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 189290653797812033097705082179691865596,
@@ -25702,6 +26842,36 @@
     "total_upload": 2334.351436294004
   },
   {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 752.7176071373025,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 16,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9825750000000001,
+    "rps": 48.46439043552986,
+    "p95_time": 0.4014694815086841,
+    "mean_time": 0.3288291284188954,
+    "total_upload": 4255.125206026001
+  },
+  {
     "hash_code": 189290653797812033097705082179691865596,
     "engine": "qdrant-4c32g",
     "version": "v1.1.3",
@@ -25849,6 +27019,36 @@
     "total_upload": 2334.351436294004
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 18667.694233273018,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9827250000000001,
+    "rps": 1.95417814027501,
+    "p95_time": 1.388920142803545,
+    "mean_time": 1.0229337073165807,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 266863960683268020214196882840696933822,
     "engine": "myscale",
     "version": "myscale-v0.10.4",
@@ -25936,6 +27136,36 @@
     "p95_time": 0.08371732704545137,
     "mean_time": 0.06908469102459276,
     "total_upload": 3583.3111332420085
+  },
+  {
+    "hash_code": 329435745164388728989633747112188501295,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1705545610664,
+    "cost": 796.267503554629,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9828850000000001,
+    "rps": 45.813749571782246,
+    "p95_time": 0.2032227979536401,
+    "mean_time": 0.17345976240343225,
+    "total_upload": 4255.125206026001
   },
   {
     "hash_code": 154313158561030963874349967994728287270,
@@ -26649,6 +27879,66 @@
     "total_upload": 6086.823213248979
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 13242.340196371553,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 16,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9839037500000001,
+    "rps": 2.7548000926600302,
+    "p95_time": 9.20340105251089,
+    "mean_time": 5.8063230903431196,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 11770.593551195263,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98395125,
+    "rps": 3.0992489751118444,
+    "p95_time": 3.474739452151696,
+    "mean_time": 2.580150173821505,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 176789450951998801483845294032012039277,
     "engine": "zilliz-cost-optimized-1cu",
     "version": "v2.1.0",
@@ -26762,6 +28052,36 @@
     "total_upload": 4742.282864647001
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 10532.876748331686,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9841775,
+    "rps": 3.463441267911742,
+    "p95_time": 2.029609407099633,
+    "mean_time": 1.153952645542071,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 154313158561030963874349967994728287270,
     "engine": "zilliz-performance-4cu",
     "version": "v1.0.0",
@@ -26817,6 +28137,36 @@
     "p95_time": 0.30256115129741373,
     "mean_time": 0.23785654343300666,
     "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 34698.384151856306,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98422,
+    "rps": 1.0513457871797867,
+    "p95_time": 1.0483272129524266,
+    "mean_time": 0.9506778018471086,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 98858038577937078042976461630987161849,
@@ -27219,6 +28569,36 @@
     "total_upload": 9664.873547729992
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 17334.05985057608,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9845,
+    "rps": 2.104527174503071,
+    "p95_time": 1.3430671120004263,
+    "mean_time": 0.9494504611076482,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 154313158561030963874349967994728287270,
     "engine": "zilliz-performance-4cu",
     "version": "v1.0.0",
@@ -27274,6 +28654,36 @@
     "p95_time": 0.09215846340521239,
     "mean_time": 0.07545857289835112,
     "total_upload": 2734.639871392981
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 32333.364507290964,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9847,
+    "rps": 1.1282463348895844,
+    "p95_time": 1.0298301727467332,
+    "mean_time": 0.8858335227211355,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 101366527273925907394070177480754888737,
@@ -27871,6 +29281,36 @@
     "total_upload": 4820.190272667
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 11366.332028052353,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 16,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9854812500000001,
+    "rps": 3.2094786523890537,
+    "p95_time": 6.057487287649564,
+    "mean_time": 4.983833738907527,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 170880665943275421133505982548230375373,
     "engine": "opensearch-v2.7-1*r6g.2xlarge.search",
     "version": "v2.7",
@@ -27929,6 +29369,36 @@
     "total_upload": 2734.639871392981
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 11119.971515941477,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.985525,
+    "rps": 3.2805839428367825,
+    "p95_time": 3.3958788986892614,
+    "mean_time": 2.4373913855275897,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 101366527273925907394070177480754888737,
     "engine": "zilliz-capacity-1cu",
     "version": "v1.0.0",
@@ -27983,6 +29453,36 @@
     "p95_time": 0.08768989527598021,
     "mean_time": 0.04334545115882065,
     "total_upload": 6086.823213248979
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 10198.271449194224,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9856750000000001,
+    "rps": 3.577076780289303,
+    "p95_time": 2.08923139509061,
+    "mean_time": 1.1173367461292583,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 98858038577937078042976461630987161849,
@@ -28210,6 +29710,36 @@
     "p95_time": 0.17927263130695792,
     "mean_time": 0.13426068428375584,
     "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 6770.3798071651445,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98611,
+    "rps": 5.38817629719871,
+    "p95_time": 0.45371921075129645,
+    "mean_time": 0.37067082382876104,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 149188626738309365960292261655480506036,
@@ -28729,6 +30259,36 @@
     "total_upload": 2334.351436294004
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 17663.15676358543,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9867999999999999,
+    "rps": 2.065315984468167,
+    "p95_time": 1.3670395446053585,
+    "mean_time": 0.9675907508799064,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 176789450951998801483845294032012039277,
     "engine": "zilliz-cost-optimized-1cu",
     "version": "v2.1.0",
@@ -29015,6 +30575,66 @@
     "total_upload": 6086.823213248979
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 32132.901191385285,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9870999999999999,
+    "rps": 1.1352849773110483,
+    "p95_time": 0.9936518120055551,
+    "mean_time": 0.8803575720773223,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 19097.759360278218,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.987125,
+    "rps": 1.9101717280968273,
+    "p95_time": 1.4164030948442812,
+    "mean_time": 1.0461692814559356,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 170880665943275421133505982548230375373,
     "engine": "opensearch-v2.7-1*r6g.2xlarge.search",
     "version": "v2.7",
@@ -29042,6 +30662,36 @@
     "p95_time": 0.7883902742527424,
     "mean_time": 0.6876068481779511,
     "total_upload": 2734.639871392981
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 3398.252728193784,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9872725,
+    "rps": 10.734928481728785,
+    "p95_time": 0.4678366278028988,
+    "mean_time": 0.37204103111846415,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 176789450951998801483845294032012039277,
@@ -29128,6 +30778,36 @@
     "total_upload": 5967.833041057922
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 3654.0290567523753,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 16,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9874075,
+    "rps": 9.983500249563605,
+    "p95_time": 1.972943933047645,
+    "mean_time": 1.6016248457424227,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 176789450951998801483845294032012039277,
     "engine": "zilliz-cost-optimized-1cu",
     "version": "v2.1.0",
@@ -29184,6 +30864,66 @@
     "total_upload": 2752.150063756
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 2928.2690699506074,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9875525,
+    "rps": 12.457871571417899,
+    "p95_time": 0.8906173009083431,
+    "mean_time": 0.6414373463810825,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 11563.162223340232,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 16,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.987675,
+    "rps": 3.154846338345505,
+    "p95_time": 6.195538899677922,
+    "mean_time": 5.070144316670568,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 101366527273925907394070177480754888737,
     "engine": "zilliz-capacity-1cu",
     "version": "v1.0.0",
@@ -29210,6 +30950,36 @@
     "p95_time": 0.5081432532402685,
     "mean_time": 0.4186525918444386,
     "total_upload": 5967.833041057922
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 10257.032903641428,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98775,
+    "rps": 3.556584086519695,
+    "p95_time": 2.0671654846039016,
+    "mean_time": 1.124029066509549,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 101366527273925907394070177480754888737,
@@ -29240,6 +31010,96 @@
     "total_upload": 5967.833041057922
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 11244.166040793802,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98785,
+    "rps": 3.244349102250062,
+    "p95_time": 3.409862279456865,
+    "mean_time": 2.4645513714935694,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 13254.32495410018,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 16,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98799625,
+    "rps": 2.752309161449602,
+    "p95_time": 8.83319551599852,
+    "mean_time": 5.811547195696332,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 33177.38018729663,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.988,
+    "rps": 1.0995443218861483,
+    "p95_time": 1.0354304522472375,
+    "mean_time": 0.9089921189141169,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 101366527273925907394070177480754888737,
     "engine": "zilliz-capacity-1cu",
     "version": "v1.0.0",
@@ -29266,6 +31126,66 @@
     "p95_time": 0.8105966860312037,
     "mean_time": 0.7542721510422998,
     "total_upload": 5967.833041057922
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 11429.797427958001,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98802125,
+    "rps": 3.1916576151006524,
+    "p95_time": 3.462277958802588,
+    "mean_time": 2.505345054571377,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 17942.388391146236,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98805,
+    "rps": 2.0331741351670463,
+    "p95_time": 1.3694689526921138,
+    "mean_time": 0.9828021825706892,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 190581728639617235682084340948619560350,
@@ -29523,6 +31443,36 @@
     "total_upload": 1941.2548287990003
   },
   {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 10653.269662037237,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9883500000000001,
+    "rps": 3.4243008163020527,
+    "p95_time": 2.0047539244515065,
+    "mean_time": 1.167183257970104,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 109104229723356631810701666471293587569,
     "engine": "myscale",
     "version": "myscale-v0.10.4",
@@ -29642,6 +31592,66 @@
     "total_upload": 1941.2548287990003
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 10727.528569254773,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9884700000000001,
+    "rps": 3.4005968629673125,
+    "p95_time": 0.7228198498945858,
+    "mean_time": 0.5875477820884698,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 35483.174587212,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9884700000000001,
+    "rps": 1.0280929038730162,
+    "p95_time": 1.101361661058763,
+    "mean_time": 0.9721911324458924,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 170880665943275421133505982548230375373,
     "engine": "opensearch-v2.7-1*r6g.2xlarge.search",
     "version": "v2.7",
@@ -29669,6 +31679,66 @@
     "p95_time": 0.19566830044786912,
     "mean_time": 0.16472154770907946,
     "total_upload": 2734.639871392981
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 11916.463104473862,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 16,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.988625,
+    "rps": 3.0613110350087114,
+    "p95_time": 6.790833416569502,
+    "mean_time": 5.224176635505724,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 13979.222573533143,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9886900000000001,
+    "rps": 2.609587178980008,
+    "p95_time": 0.46699081594197195,
+    "mean_time": 0.38271044592018005,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 176789450951998801483845294032012039277,
@@ -29757,6 +31827,66 @@
     "p95_time": 0.08959966265101683,
     "mean_time": 0.07287833611199676,
     "total_upload": 2334.351436294004
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 11459.464827269758,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.988825,
+    "rps": 3.1833947352575835,
+    "p95_time": 3.4744415225482954,
+    "mean_time": 2.5120607093601883,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 265693990262286361763103215273633130167,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.1",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.1",
+    "time_stamp": 1705545611666,
+    "cost": 10044.665865858758,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98905,
+    "rps": 3.631778347549959,
+    "p95_time": 1.9778402164556605,
+    "mean_time": 1.1005500523118426,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 145680235624851528157057027452335962220,
@@ -29904,6 +32034,36 @@
     "total_upload": 6086.823213248979
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 4471.352702664784,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98935,
+    "rps": 8.158604884436667,
+    "p95_time": 0.2970240259593993,
+    "mean_time": 0.24460122975531703,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 190581728639617235682084340948619560350,
     "engine": "zilliz-capacity-1cu",
     "version": "v1.0.0",
@@ -29988,6 +32148,36 @@
     "total_upload": 2752.0370923479786
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 5695.90981336404,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 16,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9896356250000001,
+    "rps": 6.4045957880879225,
+    "p95_time": 3.067870188840607,
+    "mean_time": 2.4969453359386717,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 98858038577937078042976461630987161849,
     "engine": "opensearch-v2.11-1*r6g.2xlarge.search",
     "version": "v2.11",
@@ -30015,6 +32205,36 @@
     "p95_time": 0.615242676490743,
     "mean_time": 0.5485049481928072,
     "total_upload": 3583.3111332420085
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 5152.628587055518,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9896425000000001,
+    "rps": 7.079881536900485,
+    "p95_time": 0.7012513219568063,
+    "mean_time": 0.564320472938547,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 170880665943275421133505982548230375373,
@@ -30046,6 +32266,36 @@
     "total_upload": 2734.639871392981
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 2026.1078202513827,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9896999999999999,
+    "rps": 18.004964807585544,
+    "p95_time": 0.6547324344443035,
+    "mean_time": 0.44360705896154107,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 301901989582125706553329070411516252303,
     "engine": "pinecone-1-pod",
     "version": "2023-6-20",
@@ -30071,6 +32321,36 @@
     "p95_time": 0.2119714392843889,
     "mean_time": 0.18314050547077204,
     "total_upload": 2752.0370923479786
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 2105.4644934968364,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 16,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9897125,
+    "rps": 17.32634300539194,
+    "p95_time": 1.1186885823553894,
+    "mean_time": 0.9225387033155221,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 98858038577937078042976461630987161849,
@@ -30100,6 +32380,36 @@
     "p95_time": 0.2594125310497475,
     "mean_time": 0.23806047342420789,
     "total_upload": 3583.3111332420085
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 4464.777500227959,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9897674999999999,
+    "rps": 8.170619924091948,
+    "p95_time": 1.246722539501934,
+    "mean_time": 0.9780070083248847,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 176789450951998801483845294032012039277,
@@ -30243,6 +32553,36 @@
     "total_upload": 4820.190272667
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 6513.167487011533,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9902000000000001,
+    "rps": 5.60096144813532,
+    "p95_time": 0.4354328135392279,
+    "mean_time": 0.35659325333547165,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 145680235624851528157057027452335962220,
     "engine": "myscale",
     "version": "myscale-v0.10.4",
@@ -30332,6 +32672,36 @@
     "total_upload": 2734.639871392981
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 2456.9018826091706,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9904749999999999,
+    "rps": 14.847967783418,
+    "p95_time": 0.3535868219485564,
+    "mean_time": 0.268818666874693,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 272441175733084543562414477271297159672,
     "engine": "zilliz-performance-4cu",
     "version": "v1.0.0",
@@ -30388,6 +32758,36 @@
     "total_upload": 4820.190272667
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 2844.164048848544,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.99065,
+    "rps": 12.826264369233158,
+    "p95_time": 0.8460382374454639,
+    "mean_time": 0.6229969056710488,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 190581728639617235682084340948619560350,
     "engine": "zilliz-capacity-1cu",
     "version": "v1.0.0",
@@ -30414,6 +32814,96 @@
     "p95_time": 0.10353329919744281,
     "mean_time": 0.07394510559813353,
     "total_upload": 6086.823213248979
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 2955.8431441893813,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 16,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.99068125,
+    "rps": 12.34165624509293,
+    "p95_time": 1.5615138622517406,
+    "mean_time": 1.295433960780426,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 12257.044616959049,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9907999999999999,
+    "rps": 2.9762476306503505,
+    "p95_time": 0.31751740244217214,
+    "mean_time": 0.3355252763909812,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 10339.10057572704,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.99085,
+    "rps": 3.5283533352643444,
+    "p95_time": 0.6990790628093236,
+    "mean_time": 0.5662814969395767,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 176789450951998801483845294032012039277,
@@ -30498,6 +32988,96 @@
     "p95_time": 0.07429178510319616,
     "mean_time": 0.06855400422602179,
     "total_upload": 2927.586229214001
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 22193.773563797993,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.99092,
+    "rps": 1.643704253138159,
+    "p95_time": 0.7438819810507993,
+    "mean_time": 0.6078895324174227,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 4639.1334629760195,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 16,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9909749999999999,
+    "rps": 7.863537509998249,
+    "p95_time": 2.4923922959264018,
+    "mean_time": 2.0334362574014175,
+    "total_upload": 4380.049966331004
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 4627.550748668887,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9909874999999999,
+    "rps": 7.883219867549472,
+    "p95_time": 1.2905633816466433,
+    "mean_time": 1.013884527004062,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 145680235624851528157057027452335962220,
@@ -30737,6 +33317,36 @@
     "total_upload": 2752.0370923479786
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 13006.223287366955,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9913,
+    "rps": 2.8048111426345654,
+    "p95_time": 0.4315612730948487,
+    "mean_time": 0.35602962017594836,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 266863960683268020214196882840696933822,
     "engine": "myscale",
     "version": "myscale-v0.10.4",
@@ -30765,6 +33375,36 @@
     "p95_time": 0.37510490200002095,
     "mean_time": 0.26855850427777295,
     "total_upload": 2334.351436294004
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 3482.8794734558837,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.99135,
+    "rps": 10.474091991418456,
+    "p95_time": 0.48934473249973937,
+    "mean_time": 0.38134507585311805,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 190581728639617235682084340948619560350,
@@ -30850,6 +33490,36 @@
     "total_upload": 2927.586229214001
   },
   {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 5272.869692734053,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.991625,
+    "rps": 6.918433817977518,
+    "p95_time": 0.7217277627009024,
+    "mean_time": 0.5775538212717293,
+    "total_upload": 4380.049966331004
+  },
+  {
     "hash_code": 272441175733084543562414477271297159672,
     "engine": "zilliz-performance-4cu",
     "version": "v1.0.0",
@@ -30904,6 +33574,36 @@
     "p95_time": 0.07103671444892824,
     "mean_time": 0.06731163499891409,
     "total_upload": 2927.586229214001
+  },
+  {
+    "hash_code": 71141409511760638501505137681283141421,
+    "engine": "weaviate-v1.23.3-standard-HNSW",
+    "version": "v1.23.3",
+    "remark": "client: AWS EC2 c5.xlarge us-east-2; server: GCP us-east-4;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip-probability-0.01",
+    "dataset_group": "laion-768-5m-ip-probability",
+    "dataset_tag": "ratio-0.01",
+    "time_stamp": 1705545611666,
+    "cost": 20766.736899333,
+    "monthly_cost": 364.8,
+    "index_create_parameter": {
+      "ef": 100,
+      "efConstruction": 128,
+      "maxConnections": 32
+    },
+    "index_search_params": {
+      "ef": 512
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.992,
+    "rps": 1.7566553752203453,
+    "p95_time": 0.6905946350401792,
+    "mean_time": 0.5687832063837995,
+    "total_upload": 4380.049966331004
   },
   {
     "hash_code": 272441175733084543562414477271297159672,
