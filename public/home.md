@@ -4,6 +4,8 @@ Welcome to the MyScale Vector Database Benchmark website. We present an exhausti
 
 ## Update 🔍
 
+- March 8, 2024: Add results of ElasticSearch Cloud v8.12.2
+  [#12](https://github.com/myscale/benchmark/pull/12)
 - Jan 19, 2024: Add results of Weaviate v1.23.3 (huge performance improvement)
   [#11](https://github.com/myscale/benchmark/pull/11)
 - Jan 15, 2024: Add results of OpenSearch v2.11
@@ -58,6 +60,7 @@ Let’s peek into the specs and costs of the cloud services we’ve put to the t
 | Postgres with [pgvector](https://github.com/pgvector/pgvector) | [db.r6g.xlarge](https://instances.vantage.sh/aws/rds/db.r6g.xlarge?region=us-east-1&os=PostgreSQL&cost_duration=monthly&reserved_term=Standard.partialUpfront) (4C 32GB) | 329 | Amazon RDS for PostgreSQL |
 | Postgres [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) | [db.r6g.xlarge](https://instances.vantage.sh/aws/rds/db.r6g.xlarge?region=us-east-1&os=PostgreSQL&cost_duration=monthly&reserved_term=Standard.partialUpfront) (4C 32GB) | 329 | Amazon RDS for PostgreSQL |
 | [AWS OpenSearch Service](https://aws.amazon.com/opensearch-service/) | [r6g.2xlarge.search](https://instances.vantage.sh/aws/opensearch/r6g.2xlarge.search?region=us-east-1&cost_duration=monthly&reserved_term=Standard.noUpfront) (8C 64GB) | 488 | Amazon OpenSearch Service domain |
+| [ElasticSearch Cloud](https://cloud.elastic.co/home) |  3.9vCPU 30GB | 982.80 | Hardware profile: Vector Search Optimized (ARM) |
 
 To ensure a fair play, we operate the client (`c4.xlarge`) in the same region as the cloud service to keep networking interference to a minimum.
 
@@ -71,3 +74,4 @@ To ensure a fair play, we operate the client (`c4.xlarge`) in the same region as
 | PGVector | AWS us-east-2 | AWS us-east-2 |
 | PGVecto.rs | AWS us-east-2 | AWS us-east-2 |
 | OpenSearch | AWS us-east-2 | AWS us-east-2 |
+| ElasticSearch | AWS us-east-2 | AWS us-east-2 |
