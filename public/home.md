@@ -49,7 +49,7 @@ Let’s peek into the specs and costs of the cloud services we’ve put to the t
 
 | Database | Pod Type | Monthly Cost ($) | Notes |
 |---------|----------|------------------|-------|
-| [MyScale](https://myscale.com/) | Standard Pod | 120 | Beta users are eligible for a free trial. |
+| [MyScale](https://myscale.com/) | Standard Pod of Size x1 | 120 |  |
 | [Pinecone](https://www.pinecone.io/) | s1.x1 | 80 | Optimized for storage. |
 | [Pinecone](https://www.pinecone.io/) | 5 x p2.x1 | 600 | Performance-optimized via horizontal scaling. |
 | [Qdrant](https://qdrant.tech/) | 4C 32G | 273 | Utilizes HNSW algorithm. |
