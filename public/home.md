@@ -4,11 +4,15 @@ Welcome to the MyScale Vector Database Benchmark website. We present an exhausti
 
 ## Update 🔍
 
-- March 8, 2024: Add results of ElasticSearch Cloud v8.12.2
+- April 9, 2024: Update results of Zilliz Cloud (version 2024-04-03)
+  [#13](https://github.com/myscale/benchmark/pull/13)
+  - A notable enhancement in performance was observed in filtered vector search.
+- March 8, 2024: Add results of Elasticsearch (v8.12.2)
   [#12](https://github.com/myscale/benchmark/pull/12)
-- Jan 19, 2024: Add results of Weaviate v1.23.3 (huge performance improvement)
+- Jan 19, 2024: Update results of Weaviate (v1.23.3)
   [#11](https://github.com/myscale/benchmark/pull/11)
-- Jan 15, 2024: Add results of OpenSearch v2.11
+  - Significant performance improvement was observed.
+- Jan 15, 2024: Update results of OpenSearch (v2.11)
   [#8](https://github.com/myscale/benchmark/pull/8)
 - Nov 6, 2023: Re-test pgvecto.rs according to Allen's [advice](https://twitter.com/zhoujinjing09/status/1717388692434911278)
   [#7](https://github.com/myscale/benchmark/pull/7)
@@ -53,13 +57,12 @@ Let’s peek into the specs and costs of the cloud services we’ve put to the t
 | [Pinecone](https://www.pinecone.io/) | s1.x1 | 80 | Optimized for storage. |
 | [Pinecone](https://www.pinecone.io/) | 5 x p2.x1 | 600 | Performance-optimized via horizontal scaling. |
 | [Qdrant](https://qdrant.tech/) | 4C 32G | 273 | Utilizes HNSW algorithm. |
-| [Weaviate](https://weaviate.io/) | SLA Tier: Standard | 364.8 | Results updated on Jan 19, 2024. |
-| [Zilliz](https://zilliz.com) | Capacity-optimized 1 CU | 114 | Price reduced from $186 to $114 as of June 14, 2023. |
-| [Zilliz](https://zilliz.com) | Performance-optimized 4 CU | 458 | Price reduced from $746 to $458 as of June 14, 2023. |
-| [Zilliz](https://zilliz.com) | Cost-optimized 1 CU | 77 | Added on Sep 6, 2023. |
+| [Weaviate](https://weaviate.io/) | SLA Tier: Standard | 364.8 | Updated on Jan 19, 2024. |
+| [Zilliz](https://zilliz.com) | Capacity-optimized 1 CU | 115.24 | Updated on Apr 9, 2024. |
+| [Zilliz](https://zilliz.com) | Performance-optimized 4 CU | 458.66 | Updated on Apr 9, 2024. |
 | Postgres with [pgvector](https://github.com/pgvector/pgvector) | [db.r6g.xlarge](https://instances.vantage.sh/aws/rds/db.r6g.xlarge?region=us-east-1&os=PostgreSQL&cost_duration=monthly&reserved_term=Standard.partialUpfront) (4C 32GB) | 329 | Amazon RDS for PostgreSQL |
 | Postgres [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) | [db.r6g.xlarge](https://instances.vantage.sh/aws/rds/db.r6g.xlarge?region=us-east-1&os=PostgreSQL&cost_duration=monthly&reserved_term=Standard.partialUpfront) (4C 32GB) | 329 | Amazon RDS for PostgreSQL |
-| [AWS OpenSearch Service](https://aws.amazon.com/opensearch-service/) | [r6g.2xlarge.search](https://instances.vantage.sh/aws/opensearch/r6g.2xlarge.search?region=us-east-1&cost_duration=monthly&reserved_term=Standard.noUpfront) (8C 64GB) | 488 | Amazon OpenSearch Service domain |
+| [AWS OpenSearch Service](https://aws.amazon.com/opensearch-service/) | [r6g.2xlarge.search](https://instances.vantage.sh/aws/opensearch/r6g.2xlarge.search?region=us-east-1&cost_duration=monthly&reserved_term=Standard.noUpfront) (8C 64GB) | 488 | Updated on Mar 8, 2024. |
 | [Elastic Cloud](https://cloud.elastic.co/home) |  aws.es.datahot.r6gd (3.9vCPU 30GB) | 982.80 | Elastic Cloud (Enterprise subscription) |
 
 To ensure a fair play, we operate the client (`c4.xlarge`) in the same region as the cloud service to keep networking interference to a minimum.
