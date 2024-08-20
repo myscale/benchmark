@@ -6,12 +6,12 @@ Welcome to the MyScale Vector Database Benchmark website. We present an exhausti
 
 - April 9, 2024: Update results of Zilliz Cloud (version 2024-04-03)
   [#13](https://github.com/myscale/benchmark/pull/13)
-  - A notable enhancement in performance was observed in filtered vector search.
+    - A notable enhancement in performance was observed in filtered vector search.
 - March 8, 2024: Add results of Elasticsearch (v8.12.2)
   [#12](https://github.com/myscale/benchmark/pull/12)
 - Jan 19, 2024: Update results of Weaviate (v1.23.3)
   [#11](https://github.com/myscale/benchmark/pull/11)
-  - Significant performance improvement was observed.
+    - Significant performance improvement was observed.
 - Jan 15, 2024: Update results of OpenSearch (v2.11)
   [#8](https://github.com/myscale/benchmark/pull/8)
 - Nov 6, 2023: Re-test pgvecto.rs according to Allen's [advice](https://twitter.com/zhoujinjing09/status/1717388692434911278)
